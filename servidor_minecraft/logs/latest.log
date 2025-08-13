@@ -524,3 +524,109 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Aug2025 01:29:50.375] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
 [13Aug2025 01:29:59.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ moved too quickly! -1.1878067653228879,-5.833890739061786,-8.094801659383393
 [13Aug2025 01:29:59.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[13Aug2025 01:33:53.464] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40482, l='ServerLevel[ey]', x=345.50, y=11.50, z=1995.50]
+[13Aug2025 01:33:53.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Moss Block'/40483, l='ServerLevel[ey]', x=344.50, y=13.50, z=1994.50]
+[13Aug2025 01:33:53.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Moss Carpet'/40485, l='ServerLevel[ey]', x=345.50, y=13.50, z=1995.50]
+[13Aug2025 01:33:53.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40486, l='ServerLevel[ey]', x=344.50, y=13.50, z=1995.50]
+[13Aug2025 01:33:59.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40579, l='ServerLevel[ey]', x=349.50, y=9.50, z=1993.50]
+[13Aug2025 01:33:59.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40580, l='ServerLevel[ey]', x=350.50, y=10.50, z=1992.50]
+[13Aug2025 01:33:59.007] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40581, l='ServerLevel[ey]', x=350.50, y=9.50, z=1993.50]
+[13Aug2025 01:33:59.007] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/40582, l='ServerLevel[ey]', x=349.50, y=10.50, z=1991.50]
+[13Aug2025 01:35:24.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41257, l='ServerLevel[ey]', x=135.50, y=60.50, z=1360.50]
+[13Aug2025 01:35:24.060] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41258, l='ServerLevel[ey]', x=135.50, y=59.50, z=1362.50]
+[13Aug2025 01:35:24.060] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41259, l='ServerLevel[ey]', x=136.50, y=58.50, z=1361.50]
+[13Aug2025 01:35:24.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41260, l='ServerLevel[ey]', x=137.50, y=58.50, z=1360.50]
+[13Aug2025 01:35:24.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41261, l='ServerLevel[ey]', x=135.50, y=59.50, z=1361.50]
+[13Aug2025 01:35:24.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41262, l='ServerLevel[ey]', x=135.50, y=60.50, z=1361.50]
+[13Aug2025 01:35:24.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41263, l='ServerLevel[ey]', x=135.50, y=59.50, z=1360.50]
+[13Aug2025 01:35:24.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41264, l='ServerLevel[ey]', x=137.50, y=58.50, z=1361.50]
+[13Aug2025 01:35:24.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/41265, l='ServerLevel[ey]', x=137.50, y=58.50, z=1362.50]
+[13Aug2025 01:38:40.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [Diamonds!]
+[13Aug2025 01:40:50.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/43769, l='ServerLevel[ey]', x=400.50, y=-33.50, z=2085.50]
+[13Aug2025 01:49:04.054] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/47661, l='ServerLevel[ey]', x=7.50, y=72.50, z=1361.50]
+[13Aug2025 01:49:04.054] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/47662, l='ServerLevel[ey]', x=6.50, y=73.50, z=1363.50]
+[13Aug2025 01:49:04.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/47663, l='ServerLevel[ey]', x=7.50, y=73.50, z=1363.50]
+[13Aug2025 01:49:04.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/47664, l='ServerLevel[ey]', x=7.50, y=72.50, z=1363.50]
+[13Aug2025 01:49:04.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/47665, l='ServerLevel[ey]', x=5.50, y=71.50, z=1361.50]
+[13Aug2025 01:49:12.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Andesite'/47909, l='ServerLevel[ey]', x=8.50, y=68.50, z=1362.50]
+[13Aug2025 01:49:12.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Andesite'/47910, l='ServerLevel[ey]', x=9.50, y=69.50, z=1361.50]
+[13Aug2025 01:49:12.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Coal Ore'/47911, l='ServerLevel[ey]', x=10.50, y=69.50, z=1363.50]
+[13Aug2025 01:50:31.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:59958] logged in with entity id 48732 at (9.5, 113.0, -34.5)
+[13Aug2025 01:50:31.664] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[13Aug2025 01:50:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[13Aug2025 01:50:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> vete
+[13Aug2025 01:50:41.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/49962, l='ServerLevel[ey]', x=59.50, y=101.50, z=-49.50]
+[13Aug2025 01:50:41.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/49963, l='ServerLevel[ey]', x=58.50, y=101.50, z=-49.50]
+[13Aug2025 01:50:51.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[13Aug2025 01:50:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[13Aug2025 01:50:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg
+[13Aug2025 01:50:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> klfsjkoldnaldnalskndas
+[13Aug2025 01:50:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> adkl,nas,kdnals,dklñasndas
+[13Aug2025 01:53:23.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
+[13Aug2025 01:53:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[13Aug2025 01:54:56.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[13Aug2025 01:55:23.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:58517] logged in with entity id 53452 at (324.69999998807907, -24.0, 2110.487641244353)
+[13Aug2025 01:55:23.768] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[13Aug2025 01:55:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[13Aug2025 01:56:34.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:60419] logged in with entity id 54383 at (9.647105869907728, 113.0, -33.49887104400774)
+[13Aug2025 01:56:34.761] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[13Aug2025 01:56:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[13Aug2025 01:56:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> OLA
+[13Aug2025 01:56:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to Rajmaninov]
+[13Aug2025 01:56:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> ME VAN A CULEAR
+[13Aug2025 01:56:56.576] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[13Aug2025 01:56:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> ah listo
+[13Aug2025 01:57:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> ya no
+[13Aug2025 01:57:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> el spawn ta jodio no?
+[13Aug2025 01:57:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> uwu
+[13Aug2025 01:57:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> nazi
+[13Aug2025 01:57:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> taba pa la caga
+[13Aug2025 01:57:20.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> ctmmm
+[13Aug2025 01:57:46.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Acquire Hardware]
+[13Aug2025 01:57:52.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Stone Age]
+[13Aug2025 01:57:53.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> gracias
+[13Aug2025 01:59:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> pq la tierra ta sangrando
+[13Aug2025 01:59:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> yo toi sangrando xd
+[13Aug2025 01:59:29.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> xuxa
+[13Aug2025 01:59:36.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> metete a ds
+[13Aug2025 01:59:38.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> eiei
+[13Aug2025 02:00:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> e
+[13Aug2025 02:00:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> era paca
+[13Aug2025 02:01:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> ctm
+[13Aug2025 02:01:21.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> ayuda
+[13Aug2025 02:01:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> pedilo
+[13Aug2025 02:01:40.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> te perdi:v
+[13Aug2025 02:01:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> toy donde salimos
+[13Aug2025 02:02:19.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66d0a86c[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:49696) lost connection: Disconnected
+[13Aug2025 02:03:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Sweet Dreams]
+[13Aug2025 02:03:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> duerman
+[13Aug2025 02:03:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> gg
+[13Aug2025 02:03:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> fap
+[13Aug2025 02:03:48.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> fas
+[13Aug2025 02:03:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> pfa
+[13Aug2025 02:03:49.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> pfa
+[13Aug2025 02:03:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> pfa
+[13Aug2025 02:03:50.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> p
+[13Aug2025 02:03:50.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> fap
+[13Aug2025 02:03:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> fap
+[13Aug2025 02:03:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> fa
+[13Aug2025 02:04:56.793] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 19 mobs in level: minecraft:overworld
+[13Aug2025 02:07:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fetuuu__> 15 1481
+[13Aug2025 02:10:49.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ lost connection: Disconnected
+[13Aug2025 02:10:49.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ left the game
+[13Aug2025 02:13:56.656] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[13Aug2025 02:13:56.656] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 02:15:56.775] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 02:16:56.579] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[13Aug2025 02:17:56.826] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 13 mobs in level: minecraft:overworld
+[13Aug2025 02:17:56.827] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[13Aug2025 02:18:56.556] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[13Aug2025 02:19:56.982] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 02:20:33.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:49902] logged in with entity id 69928 at (400.69999998807907, 112.0, 1914.318206937555)
+[13Aug2025 02:20:33.267] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[13Aug2025 02:20:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[13Aug2025 02:20:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni suffocated in a wall
+[13Aug2025 02:20:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[13Aug2025 02:21:03.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[13Aug2025 02:21:03.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[13Aug2025 02:21:03.407] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -1452,6 +1452,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 05:44:00 +0000",
       "minecraft:spider": "2025-08-11 05:24:41 +0000",
+      "minecraft:creeper": "2025-08-13 01:43:53 +0000",
       "minecraft:husk": "2025-08-12 02:43:00 +0000",
       "minecraft:enderman": "2025-08-11 05:40:06 +0000",
       "minecraft:zombie": "2025-08-11 05:34:51 +0000"
@@ -1513,8 +1514,11 @@
       "black_iris": "2025-08-12 03:35:47 +0000",
       "dandelion": "2025-08-11 05:49:47 +0000",
       "hibiscus": "2025-08-12 03:35:46 +0000",
+      "azure_bluet": "2025-08-13 01:49:51 +0000",
       "lily_of_the_valley": "2025-08-11 05:31:48 +0000",
-      "blue_iris": "2025-08-12 03:35:46 +0000"
+      "blue_iris": "2025-08-12 03:35:46 +0000",
+      "cornflower": "2025-08-13 01:51:52 +0000",
+      "oxeye_daisy": "2025-08-13 01:50:18 +0000"
     },
     "done": false
   },
@@ -2385,6 +2389,114 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-08-13 01:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-13 01:58:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/sugi_fence": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_button": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-13 02:02:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_door": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_slab": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 02:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-13 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-13 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-13 01:51:52 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/sugi_sign": {
+    "criteria": {
+      "has_planks": "2025-08-13 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-13 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-08-13 01:58:47 +0000"
     },
     "done": true
   },
