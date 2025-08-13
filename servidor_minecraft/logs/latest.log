@@ -491,3 +491,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Aug2025 01:07:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ joined the game
 [13Aug2025 01:07:49.978] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
 [13Aug2025 01:09:50.056] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 01:10:49.991] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 01:11:15.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17713, l='ServerLevel[ey]', x=442.50, y=10.50, z=1920.50]
+[13Aug2025 01:11:15.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17714, l='ServerLevel[ey]', x=443.50, y=10.50, z=1920.50]
+[13Aug2025 01:11:15.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17715, l='ServerLevel[ey]', x=442.50, y=12.50, z=1919.50]
+[13Aug2025 01:11:15.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17716, l='ServerLevel[ey]', x=442.50, y=11.50, z=1918.50]
+[13Aug2025 01:11:15.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17717, l='ServerLevel[ey]', x=442.50, y=11.50, z=1919.50]
+[13Aug2025 01:11:15.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17718, l='ServerLevel[ey]', x=442.50, y=10.50, z=1918.50]
+[13Aug2025 01:11:15.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17719, l='ServerLevel[ey]', x=442.50, y=11.50, z=1920.50]
+[13Aug2025 01:11:15.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/17720, l='ServerLevel[ey]', x=443.50, y=10.50, z=1918.50]
+[13Aug2025 01:12:49.975] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[13Aug2025 01:14:50.082] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 47 mobs in level: minecraft:overworld
+[13Aug2025 01:14:56.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ was doomed to fall by Skeleton
+[13Aug2025 01:18:20.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
+[13Aug2025 01:18:20.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[13Aug2025 01:18:31.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:58280] logged in with entity id 24146 at (436.8781799356669, -17.0, 1878.569413526991)
+[13Aug2025 01:18:31.704] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[13Aug2025 01:18:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[13Aug2025 01:18:55.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ moved too quickly! 8.208062165778642,-0.7491326388584127,-5.817538501555418
+[13Aug2025 01:19:20.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ moved too quickly! 6.31531262540949,0.8800391385729398,7.796606513345978
+[13Aug2025 01:20:22.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ lost connection: Disconnected
+[13Aug2025 01:20:22.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ left the game
+[13Aug2025 01:21:50.884] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 42 mobs in level: minecraft:overworld
+[13Aug2025 01:24:13.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fetuuu__[/100.82.22.119:49997] logged in with entity id 30070 at (-27.353735753393682, 69.0, 1476.343694027419)
+[13Aug2025 01:24:13.265] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player fetuuu__
+[13Aug2025 01:24:13.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ joined the game
+[13Aug2025 01:25:50.055] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[13Aug2025 01:27:49.995] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 27 mobs in level: minecraft:overworld
+[13Aug2025 01:27:49.995] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 01:28:49.998] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 16 mobs in level: minecraft:overworld
+[13Aug2025 01:29:36.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg
+[13Aug2025 01:29:50.375] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[13Aug2025 01:29:59.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ moved too quickly! -1.1878067653228879,-5.833890739061786,-8.094801659383393
+[13Aug2025 01:29:59.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind

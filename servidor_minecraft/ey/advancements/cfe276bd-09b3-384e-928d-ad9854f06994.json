@@ -15,6 +15,7 @@
     "criteria": {
       "natures_spirit:cypress_fields": "2025-08-11 05:49:42 +0000",
       "natures_spirit:tropical_shores": "2025-08-11 05:17:06 +0000",
+      "minecraft:lush_caves": "2025-08-13 01:13:30 +0000",
       "natures_spirit:wooded_drylands": "2025-08-11 05:14:37 +0000",
       "minecraft:jungle": "2025-08-11 04:13:02 +0000",
       "minecraft:plains": "2025-08-11 04:04:23 +0000",
@@ -2061,9 +2062,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "slept_in_bed": "2025-08-13 01:06:57 +0000"
+      "has_iron_backpack": "2025-08-13 01:03:15 +0000"
     },
     "done": true
   },
@@ -2073,9 +2074,135 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_iron_backpack": "2025-08-13 01:03:15 +0000"
+      "slept_in_bed": "2025-08-13 01:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/wind_vane": {
+    "criteria": {
+      "has_weather_item": "2025-08-13 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/anemometer": {
+    "criteria": {
+      "has_weather_item": "2025-08-13 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/tornado_sensor": {
+    "criteria": {
+      "has_weather_item": "2025-08-13 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_deflector": {
+    "criteria": {
+      "has_weather_item": "2025-08-13 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_forecast": {
+    "criteria": {
+      "has_weather_item": "2025-08-13 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-13 01:27:54 +0000"
     },
     "done": true
   },
