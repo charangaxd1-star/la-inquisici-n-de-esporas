@@ -630,3 +630,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Aug2025 02:21:03.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
 [13Aug2025 02:21:03.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
 [13Aug2025 02:21:03.407] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Aug2025 02:21:55.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:49917] logged in with entity id 70574 at (398.95123389020176, 111.0, 1911.2322576849358)
+[13Aug2025 02:21:55.510] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[13Aug2025 02:21:55.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[13Aug2025 02:21:56.587] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 02:22:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[13Aug2025 02:22:56.817] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[13Aug2025 02:23:56.599] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[13Aug2025 02:24:50.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=428, y=114, z=1876} BlockPos{x=427, y=113, z=1877}
+[13Aug2025 02:24:50.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=428, y=114, z=1876} BlockPos{x=427, y=113, z=1877}
+[13Aug2025 02:24:53.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=112, z=1879} BlockPos{x=435, y=112, z=1878}
+[13Aug2025 02:24:53.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=112, z=1879} BlockPos{x=435, y=112, z=1878}
+[13Aug2025 02:24:53.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=112, z=1879} BlockPos{x=435, y=112, z=1878}
+[13Aug2025 02:24:53.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=112, z=1879} BlockPos{x=435, y=112, z=1878}
+[13Aug2025 02:24:57.238] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[13Aug2025 02:24:57.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=113, z=1873} BlockPos{x=447, y=111, z=1872}
+[13Aug2025 02:24:57.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=113, z=1873} BlockPos{x=447, y=111, z=1872}
+[13Aug2025 02:24:57.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=113, z=1873} BlockPos{x=447, y=111, z=1872}
+[13Aug2025 02:24:57.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=113, z=1873} BlockPos{x=447, y=111, z=1872}
+[13Aug2025 02:24:57.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=445, y=113, z=1876} BlockPos{x=445, y=111, z=1878}
+[13Aug2025 02:24:57.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=445, y=113, z=1877} BlockPos{x=445, y=111, z=1878}
+[13Aug2025 02:24:57.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=112, z=1877} BlockPos{x=445, y=111, z=1878}
+[13Aug2025 02:24:57.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=112, z=1877} BlockPos{x=445, y=111, z=1878}
+[13Aug2025 02:24:57.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=113, z=1878} BlockPos{x=445, y=111, z=1878}
+[13Aug2025 02:25:02.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=113, z=1881} BlockPos{x=443, y=111, z=1881}
+[13Aug2025 02:25:02.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=113, z=1881} BlockPos{x=443, y=111, z=1881}
+[13Aug2025 02:25:07.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=438, y=113, z=1874} BlockPos{x=437, y=112, z=1874}
+[13Aug2025 02:26:56.566] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 02:27:05.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> dueram
+[13Aug2025 02:27:15.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni has made the advancement [Sweet Dreams]
+[13Aug2025 02:27:18.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
+[13Aug2025 02:27:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[13Aug2025 02:27:27.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:58737] logged in with entity id 72826 at (395.04240332425, 111.0, 1911.300000011921)
+[13Aug2025 02:27:27.095] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[13Aug2025 02:27:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[13Aug2025 02:27:56.724] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 02:28:56.579] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 02:29:57.259] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 35 mobs in level: minecraft:overworld
+[13Aug2025 02:29:57.260] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[13Aug2025 02:31:15.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[13Aug2025 02:31:15.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game

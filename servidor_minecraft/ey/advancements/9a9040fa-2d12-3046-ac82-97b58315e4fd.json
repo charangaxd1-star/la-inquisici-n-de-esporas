@@ -79,6 +79,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/decorations/sugi_fence": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2025-08-13 02:15:30 +0000"
@@ -94,6 +100,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_button": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -259,6 +271,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 02:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-13 01:57:52 +0000"
@@ -361,6 +379,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/redstone/sugi_door": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-13 02:16:31 +0000"
@@ -418,6 +442,12 @@
   "natures_spirit:recipes/transportation/coconut_boat": {
     "criteria": {
       "in_water": "2025-08-13 02:04:24 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -502,6 +532,12 @@
   "natures_spirit:recipes/transportation/palo_verde_boat": {
     "criteria": {
       "in_water": "2025-08-13 02:04:24 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_slab": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -610,6 +646,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-13 02:04:24 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -908,6 +950,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/redstone/sugi_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-13 01:57:54 +0000"
@@ -923,6 +971,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-13 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/sugi_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -989,6 +1043,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-13 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/sugi_sign": {
+    "criteria": {
+      "has_planks": "2025-08-13 02:29:02 +0000"
     },
     "done": true
   },
@@ -1151,6 +1211,12 @@
   "legendarysurvivaloverhaul:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-13 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-08-13 02:23:31 +0000"
     },
     "done": true
   },
