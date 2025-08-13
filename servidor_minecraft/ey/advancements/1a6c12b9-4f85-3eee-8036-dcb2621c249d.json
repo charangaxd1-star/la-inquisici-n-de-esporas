@@ -2370,5 +2370,23 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-13 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-08-13 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-08-13 01:01:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

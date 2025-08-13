@@ -460,3 +460,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Aug2025 00:58:00.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=389, y=110, z=1872} BlockPos{x=390, y=109, z=1869}
 [13Aug2025 00:58:00.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=389, y=110, z=1872} BlockPos{x=390, y=109, z=1869}
 [13Aug2025 00:59:12.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Aug2025 00:59:24.277] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 00:59:32.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
+[13Aug2025 00:59:57.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9684ms or 193 ticks behind
+[13Aug2025 01:00:22.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[13Aug2025 01:00:38.022] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 01:00:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ has made the advancement [Safe Haven]
+[13Aug2025 01:01:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ has made the advancement [Call For Adventure]
+[13Aug2025 01:01:10.935] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[13Aug2025 01:01:15.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4933ms or 98 ticks behind
+[13Aug2025 01:01:43.940] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[13Aug2025 01:02:19.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[13Aug2025 01:02:45.022] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 27 mobs in level: minecraft:overworld
+[13Aug2025 01:03:02.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Aug2025 01:03:22.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[13Aug2025 01:03:29.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[13Aug2025 01:03:38.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=75, z=1281} BlockPos{x=-156, y=72, z=1282}
+[13Aug2025 01:03:49.965] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[13Aug2025 01:05:49.985] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[13Aug2025 01:06:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov fell from a high place
+[13Aug2025 01:06:50.930] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 19 mobs in level: minecraft:overworld
+[13Aug2025 01:06:50.931] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 01:06:52.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=73, z=1497} BlockPos{x=-21, y=72, z=1497}
+[13Aug2025 01:06:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [Sweet Dreams]
+[13Aug2025 01:06:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zzzz
+[13Aug2025 01:07:03.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fetuuu__ lost connection: Disconnected
+[13Aug2025 01:07:03.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ left the game
+[13Aug2025 01:07:10.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fetuuu__[/100.82.22.119:54631] logged in with entity id 14025 at (-23.640893291543698, 69.0, 1497.172421501812)
+[13Aug2025 01:07:10.675] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player fetuuu__
+[13Aug2025 01:07:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fetuuu__ joined the game
+[13Aug2025 01:07:49.978] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[13Aug2025 01:09:50.056] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
