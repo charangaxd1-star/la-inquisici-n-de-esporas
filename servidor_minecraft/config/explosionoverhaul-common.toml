@@ -1,0 +1,61 @@
+
+#Common settings that will be synced from server to client.
+[General]
+	#Enables or disables blocks being launched from explosions.
+	#If false, explosions will still destroy blocks but won't create falling block entities.
+	enableFallingBlocks = true
+	#Enables or disables the destruction of blocks, creating craters.
+	#If false, explosions will still cause visual and sound effects, but won't break blocks.
+	enableCraterDestruction = true
+	#Enables or disables glass being shattered by the explosion's shockwave.
+	enableGlassBreaking = true
+	#Enables or disables the flickering effect on Redstone Lamps near explosions.
+	enableLampFlicker = true
+
+#
+#Fine-tuning for the glass breaking effect. High values can impact performance.
+["Glass Breaking"]
+	#The interval in game ticks between each glass breaking cycle.
+	#1 tick = 0.05 seconds. Lower values make the effect smoother but use more server resources.
+	#Default: 1
+	#Range: 1 ~ 20
+	glassBreakingIntervalTicks = 1
+	#The maximum number of glass blocks that can be broken in a single processing cycle.
+	#This prevents server lag from massive explosions. Higher values can handle large glass structures better but may cause spikes.
+	#Default: 70
+	#Range: 10 ~ 500
+	glassBlocksPerCycle = 70
+	#The base number of rays used to detect glass for a minimal power explosion.
+	#More rays increase precision and the chance to hit small windows, but increase performance cost.
+	#Default: 1000
+	#Range: 500 ~ 10000
+	glassBreakingBaseRayCount = 1000
+	#How many additional rays are added per point of explosion power.
+	#This makes powerful explosions more accurate at a distance.
+	#Default: 140. A power 100 explosion will have 1000 + 100*140 = 15000 rays.
+	#Range: 50 ~ 500
+	glassBreakingPowerRayMultiplier = 140
+
+#
+#Crater Customization
+["Crater Settings"]
+	#Multiplier for the radius of the explosion crater.
+	#Affects both crater size and the number of generated particles.
+	#1.0 = default size (which is now smaller).
+	#Range: 0.1 ~ 50.0
+	craterSizeMultiplier = 1.74
+	#For explosions with power 40+, this controls the shape of the crater.
+	#Determines the size of the solid 'core' relative to the total radius.
+	#0.1 = very ray-like, 0.95 = almost a perfect sphere.
+	#Default: 0.7 (70%)
+	#Range: 0.1 ~ 0.95
+	craterCoreRatio = 0.7
+
+#
+#Redstone Lamp Flickering
+["Lamp Flickering"]
+	#The radius around the player in which to search for lamps to flicker.
+	#Warning: High values on servers with many players and lamps can cause lag.
+	#Range: 1 ~ 100
+	lampFlickerSearchRadius = 50
+
