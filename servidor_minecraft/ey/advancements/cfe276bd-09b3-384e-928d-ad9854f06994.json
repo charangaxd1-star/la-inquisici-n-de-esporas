@@ -14,17 +14,23 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "natures_spirit:cypress_fields": "2025-08-11 05:49:42 +0000",
+      "natures_spirit:blooming_sugi_forest": "2025-08-13 05:03:29 +0000",
+      "natures_spirit:oak_savanna": "2025-08-13 04:32:19 +0000",
       "natures_spirit:tropical_shores": "2025-08-11 05:17:06 +0000",
       "minecraft:lush_caves": "2025-08-13 01:13:30 +0000",
       "natures_spirit:wooded_drylands": "2025-08-11 05:14:37 +0000",
       "minecraft:jungle": "2025-08-11 04:13:02 +0000",
+      "minecraft:warm_ocean": "2025-08-13 04:27:36 +0000",
+      "natures_spirit:xeric_plains": "2025-08-13 04:59:36 +0000",
       "minecraft:plains": "2025-08-11 04:04:23 +0000",
       "minecraft:sparse_jungle": "2025-08-11 05:28:44 +0000",
       "minecraft:river": "2025-08-11 04:12:35 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-13 04:28:45 +0000",
       "natures_spirit:chaparral": "2025-08-11 04:32:37 +0000",
       "minecraft:forest": "2025-08-11 04:03:57 +0000",
       "natures_spirit:drylands": "2025-08-11 05:17:23 +0000",
       "minecraft:windswept_savanna": "2025-08-11 04:14:15 +0000",
+      "minecraft:meadow": "2025-08-13 05:01:31 +0000",
       "minecraft:savanna": "2025-08-11 05:10:31 +0000"
     },
     "done": false
@@ -366,10 +372,13 @@
       "poppy": "2025-08-11 05:11:19 +0000",
       "anemone": "2025-08-11 04:35:33 +0000",
       "bleeding_heart": "2025-08-13 02:24:55 +0000",
+      "black_iris": "2025-08-13 04:59:44 +0000",
       "dandelion": "2025-08-13 01:04:13 +0000",
       "ruby_blossoms": "2025-08-13 02:24:53 +0000",
       "hibiscus": "2025-08-11 05:28:58 +0000",
       "blue_orchid": "2025-08-11 04:09:47 +0000",
+      "lotus_flower": "2025-08-13 04:25:29 +0000",
+      "blue_iris": "2025-08-13 04:59:49 +0000",
       "tiger_lily": "2025-08-11 05:16:02 +0000"
     },
     "done": false
@@ -591,6 +600,7 @@
       "bread": "2025-08-11 05:15:38 +0000",
       "rotten_flesh": "2025-08-11 04:48:39 +0000",
       "melon_slice": "2025-08-11 04:34:21 +0000",
+      "cooked_chicken": "2025-08-13 05:26:01 +0000",
       "cooked_salmon": "2025-08-11 04:15:28 +0000"
     },
     "done": false
@@ -668,6 +678,7 @@
       "minecraft:creeper": "2025-08-11 04:36:26 +0000",
       "minecraft:husk": "2025-08-11 05:16:42 +0000",
       "minecraft:zombie": "2025-08-11 04:36:33 +0000",
+      "minecraft:drowned": "2025-08-13 04:31:13 +0000",
       "minecraft:zombie_villager": "2025-08-12 02:59:23 +0000"
     },
     "done": false
@@ -2691,6 +2702,594 @@
   "natures_spirit:recipes/misc/pink_dye_from_bleeding_heart": {
     "criteria": {
       "has_bleeding_heart": "2025-08-13 02:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-13 02:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-13 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-13 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-13 03:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-13 03:33:34 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_mobs": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/canteen": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
+    "criteria": {
+      "has_leather": "2025-08-13 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-13 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/carrot_juice": {
+    "criteria": {
+      "has_carrot": "2025-08-13 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/snow_boots": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/snow_helmet": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/snow_chestplate": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/plaster": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/snow_leggings": {
+    "criteria": {
+      "has_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-13 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/pink_dye_from_lotus_flower": {
+    "criteria": {
+      "has_lotus_flower": "2025-08-13 04:25:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-13 04:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-13 04:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-13 04:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-13 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-13 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-13 04:41:00 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/black_dye_from_black_iris": {
+    "criteria": {
+      "has_black_iris": "2025-08-13 04:59:44 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/light_blue_dye_from_blue_iris": {
+    "criteria": {
+      "has_blue_iris": "2025-08-13 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_human": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:06:34 +0000"
+    },
+    "done": true
+  },
+  "spore:spitter": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:06:42 +0000"
+    },
+    "done": true
+  },
+  "spore:bloater": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:06:43 +0000"
+    },
+    "done": true
+  },
+  "spore:gastgaber": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:08:46 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_infected": "2025-08-13 05:08:55 +0000"
+    },
+    "done": true
+  },
+  "spore:brute": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-13 05:10:18 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-13 05:12:37 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_canteen_from_purification_blasting_canteen": {
+    "criteria": {
+      "has_canteen": "2025-08-13 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_canteen_from_purification_smelting_canteen": {
+    "criteria": {
+      "has_canteen": "2025-08-13 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-08-13 05:27:37 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-13 05:32:54 +0000"
     },
     "done": true
   },
