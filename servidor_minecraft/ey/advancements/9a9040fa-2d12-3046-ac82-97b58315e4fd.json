@@ -21,7 +21,9 @@
       "minecraft:jagged_peaks": "2025-08-13 05:01:54 +0000",
       "natures_spirit:alpine_clearings": "2025-08-13 04:53:16 +0000",
       "minecraft:lush_caves": "2025-08-13 01:56:51 +0000",
+      "natures_spirit:fir_forest": "2025-08-14 03:19:02 +0000",
       "natures_spirit:wooded_drylands": "2025-08-13 02:05:29 +0000",
+      "natures_spirit:tundra": "2025-08-14 03:31:49 +0000",
       "minecraft:jungle": "2025-08-14 02:10:04 +0000",
       "natures_spirit:coniferous_covert": "2025-08-13 04:53:37 +0000",
       "natures_spirit:maple_woodlands": "2025-08-13 04:57:14 +0000",
@@ -31,18 +33,24 @@
       "minecraft:old_growth_birch_forest": "2025-08-13 04:52:19 +0000",
       "minecraft:deep_dark": "2025-08-13 03:10:20 +0000",
       "minecraft:plains": "2025-08-13 02:10:55 +0000",
+      "natures_spirit:woody_highlands": "2025-08-14 03:18:51 +0000",
       "natures_spirit:golden_wilds": "2025-08-13 04:58:25 +0000",
       "minecraft:snowy_slopes": "2025-08-13 04:59:30 +0000",
+      "minecraft:frozen_river": "2025-08-14 03:37:19 +0000",
       "minecraft:birch_forest": "2025-08-13 04:24:37 +0000",
       "minecraft:windswept_hills": "2025-08-13 04:48:07 +0000",
       "minecraft:sparse_jungle": "2025-08-13 01:58:06 +0000",
+      "natures_spirit:prairie": "2025-08-14 03:19:00 +0000",
       "minecraft:river": "2025-08-13 02:10:14 +0000",
       "natures_spirit:chaparral": "2025-08-13 02:01:21 +0000",
       "natures_spirit:aspen_forest": "2025-08-13 04:54:40 +0000",
       "minecraft:forest": "2025-08-13 01:50:32 +0000",
+      "natures_spirit:snowy_fir_forest": "2025-08-14 03:25:51 +0000",
       "minecraft:windswept_forest": "2025-08-13 04:48:03 +0000",
       "minecraft:meadow": "2025-08-13 04:58:47 +0000",
-      "minecraft:savanna": "2025-08-14 02:08:56 +0000"
+      "natures_spirit:marsh": "2025-08-14 03:23:23 +0000",
+      "minecraft:savanna": "2025-08-14 02:08:56 +0000",
+      "natures_spirit:redwood_forest": "2025-08-14 03:19:18 +0000"
     },
     "done": false
   },
@@ -1071,7 +1079,8 @@
       "bread": "2025-08-13 03:41:40 +0000",
       "melon_slice": "2025-08-13 02:05:12 +0000",
       "cooked_rabbit": "2025-08-13 04:09:38 +0000",
-      "cooked_chicken": "2025-08-13 04:09:42 +0000"
+      "cooked_chicken": "2025-08-13 04:09:42 +0000",
+      "carrot": "2025-08-14 04:15:46 +0000"
     },
     "done": false
   },
@@ -1127,6 +1136,7 @@
     "criteria": {
       "gardenia": "2025-08-13 02:14:07 +0000",
       "anemone": "2025-08-14 02:37:26 +0000",
+      "rose_bush": "2025-08-14 03:17:18 +0000",
       "snapdragon": "2025-08-14 02:51:47 +0000",
       "azure_bluet": "2025-08-14 02:55:04 +0000"
     },
@@ -2800,12 +2810,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-14 03:08:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-14 03:04:06 +0000"
@@ -2827,6 +2831,120 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-14 03:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-14 03:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-14 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-08-14 03:34:24 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:41:01 +0000"
     },
     "done": true
   },

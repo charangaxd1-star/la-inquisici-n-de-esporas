@@ -21,7 +21,9 @@
       "minecraft:jagged_peaks": "2025-08-13 05:13:12 +0000",
       "natures_spirit:alpine_clearings": "2025-08-13 04:55:04 +0000",
       "minecraft:lush_caves": "2025-08-13 03:07:08 +0000",
+      "natures_spirit:fir_forest": "2025-08-14 03:19:58 +0000",
       "natures_spirit:wooded_drylands": "2025-08-11 05:46:25 +0000",
+      "natures_spirit:tundra": "2025-08-14 03:25:41 +0000",
       "minecraft:jungle": "2025-08-11 04:29:12 +0000",
       "natures_spirit:coniferous_covert": "2025-08-13 04:55:10 +0000",
       "minecraft:warm_ocean": "2025-08-14 02:33:52 +0000",
@@ -32,19 +34,24 @@
       "minecraft:plains": "2025-08-11 04:27:13 +0000",
       "natures_spirit:golden_wilds": "2025-08-13 05:12:52 +0000",
       "minecraft:snowy_slopes": "2025-08-13 05:13:00 +0000",
+      "minecraft:frozen_river": "2025-08-14 03:32:02 +0000",
       "minecraft:birch_forest": "2025-08-13 04:25:49 +0000",
       "minecraft:windswept_hills": "2025-08-13 04:50:14 +0000",
       "minecraft:sparse_jungle": "2025-08-11 05:46:16 +0000",
+      "natures_spirit:prairie": "2025-08-14 03:25:03 +0000",
       "minecraft:river": "2025-08-11 04:28:53 +0000",
       "minecraft:lukewarm_ocean": "2025-08-13 04:07:07 +0000",
       "natures_spirit:chaparral": "2025-08-11 04:32:34 +0000",
       "natures_spirit:aspen_forest": "2025-08-13 04:55:27 +0000",
       "minecraft:forest": "2025-08-11 04:11:09 +0000",
       "natures_spirit:drylands": "2025-08-14 02:33:50 +0000",
+      "natures_spirit:snowy_fir_forest": "2025-08-14 03:25:46 +0000",
       "minecraft:windswept_forest": "2025-08-13 04:48:34 +0000",
       "minecraft:windswept_savanna": "2025-08-11 04:15:58 +0000",
       "minecraft:meadow": "2025-08-13 04:56:49 +0000",
-      "minecraft:savanna": "2025-08-14 02:36:53 +0000"
+      "natures_spirit:marsh": "2025-08-14 03:42:35 +0000",
+      "minecraft:savanna": "2025-08-14 02:36:53 +0000",
+      "natures_spirit:redwood_forest": "2025-08-14 03:25:16 +0000"
     },
     "done": false
   },
@@ -1355,7 +1362,8 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "grass": "2025-08-13 03:52:38 +0000",
-      "dirt": "2025-08-11 05:47:01 +0000"
+      "dirt": "2025-08-11 05:47:01 +0000",
+      "silt": "2025-08-14 04:02:13 +0000"
     },
     "done": false
   },
@@ -2535,9 +2543,39 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-14 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-14 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-08-14 04:09:36 +0000"
     },
     "done": true
   },
@@ -2553,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-14 03:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-14 02:54:33 +0000"
@@ -2565,6 +2609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-08-14 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 02:47:16 +0000"
@@ -2574,6 +2624,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 03:40:39 +0000"
     },
     "done": true
   },
@@ -2598,6 +2654,12 @@
   "legendarysurvivaloverhaul:recipes/misc/tonic": {
     "criteria": {
       "has_healing_herbs": "2025-08-14 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
     },
     "done": true
   },
@@ -2634,6 +2696,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-14 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
     },
     "done": true
   },
@@ -2676,6 +2744,12 @@
   "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
     },
     "done": true
   },
@@ -2733,6 +2807,18 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
@@ -2763,6 +2849,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 02:47:16 +0000"
@@ -2775,9 +2867,27 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-14 02:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-14 03:45:57 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 03:45:51 +0000"
     },
     "done": true
   },
