@@ -28,8 +28,10 @@
       "natures_spirit:xeric_plains": "2025-08-13 04:59:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-14 02:52:07 +0000",
       "minecraft:plains": "2025-08-11 04:04:23 +0000",
+      "natures_spirit:woody_highlands": "2025-08-14 04:53:41 +0000",
       "minecraft:birch_forest": "2025-08-14 03:15:39 +0000",
       "minecraft:sparse_jungle": "2025-08-11 05:28:44 +0000",
+      "natures_spirit:prairie": "2025-08-14 04:56:18 +0000",
       "minecraft:river": "2025-08-11 04:12:35 +0000",
       "minecraft:lukewarm_ocean": "2025-08-13 04:28:45 +0000",
       "natures_spirit:chaparral": "2025-08-11 04:32:37 +0000",
@@ -375,6 +377,7 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "yellow_wildflower": "2025-08-11 04:35:34 +0000",
+      "gardenia": "2025-08-14 04:51:14 +0000",
       "poppy": "2025-08-11 05:11:19 +0000",
       "anemone": "2025-08-11 04:35:33 +0000",
       "bleeding_heart": "2025-08-13 02:24:55 +0000",
@@ -3375,9 +3378,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_tiles_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/polished_chert_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-14 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_chert_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_bricks_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/polished_chert": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_tile_stairs_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_slab": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/chert_brick_wall_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_tile_slab_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_stairs_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_brick_slab_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/polished_chert_slab_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/polished_chert_wall_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/polished_chert_stairs_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/chert_tile_wall_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_stairs": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/white_dye_from_gardenia": {
+    "criteria": {
+      "has_gardenia": "2025-08-14 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_brick_stairs_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_slab_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
     },
     "done": true
   },

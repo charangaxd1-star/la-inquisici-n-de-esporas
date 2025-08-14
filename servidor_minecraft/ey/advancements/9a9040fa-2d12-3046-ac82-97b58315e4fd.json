@@ -1138,7 +1138,9 @@
       "anemone": "2025-08-14 02:37:26 +0000",
       "rose_bush": "2025-08-14 03:17:18 +0000",
       "snapdragon": "2025-08-14 02:51:47 +0000",
-      "azure_bluet": "2025-08-14 02:55:04 +0000"
+      "azure_bluet": "2025-08-14 02:55:04 +0000",
+      "white_heather": "2025-08-14 04:51:43 +0000",
+      "red_heather": "2025-08-14 04:28:00 +0000"
     },
     "done": false
   },
@@ -2945,6 +2947,18 @@
   "natures_spirit:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-08-14 03:41:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/red_dye_from_red_heather": {
+    "criteria": {
+      "has_red_heather": "2025-08-14 04:28:00 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/white_dye_from_white_heather": {
+    "criteria": {
+      "has_white_heather": "2025-08-14 04:51:43 +0000"
     },
     "done": true
   },

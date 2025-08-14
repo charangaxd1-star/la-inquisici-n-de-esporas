@@ -1526,3 +1526,172 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 04:27:58.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:50389] logged in with entity id 157140 at (-1519.2314858429834, -16.0, 1520.6282047324646)
 [14Aug2025 04:27:58.178] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
 [14Aug2025 04:27:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 04:28:30.060] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 04:29:30.057] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[14Aug2025 04:29:56.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> duera
+[14Aug2025 04:29:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> GG
+[14Aug2025 04:30:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> duelman bbs :v
+[14Aug2025 04:30:13.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 04:30:13.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 04:30:25.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> fap fap*
+[14Aug2025 04:30:30.052] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 11 mobs in level: minecraft:overworld
+[14Aug2025 04:30:32.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[14Aug2025 04:30:32.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[14Aug2025 04:30:37.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 04:30:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 04:31:15.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:57678] logged in with entity id 158311 at (-1556.5492111848464, 63.0, 1563.1263241187376)
+[14Aug2025 04:31:15.173] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 04:31:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 04:31:20.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:59375] logged in with entity id 158609 at (-1497.3034273451647, -24.0, 1524.1481546405835)
+[14Aug2025 04:31:20.154] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[14Aug2025 04:31:20.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[14Aug2025 04:31:30.068] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 04:31:44.460] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Amethyst'/158908, l='ServerLevel[ey]', x=-1495.50, y=-33.50, z=1530.50]
+[14Aug2025 04:31:44.460] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Medium Amethyst Bud'/158909, l='ServerLevel[ey]', x=-1496.50, y=-31.50, z=1531.50]
+[14Aug2025 04:31:44.460] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Amethyst Cluster'/158910, l='ServerLevel[ey]', x=-1497.50, y=-32.50, z=1531.50]
+[14Aug2025 04:31:44.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Amethyst'/158911, l='ServerLevel[ey]', x=-1495.50, y=-32.50, z=1530.50]
+[14Aug2025 04:31:44.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Amethyst'/158912, l='ServerLevel[ey]', x=-1496.50, y=-31.50, z=1529.50]
+[14Aug2025 04:31:44.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Budding Amethyst'/158913, l='ServerLevel[ey]', x=-1495.50, y=-31.50, z=1529.50]
+[14Aug2025 04:31:44.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Amethyst'/158914, l='ServerLevel[ey]', x=-1496.50, y=-32.50, z=1529.50]
+[14Aug2025 04:32:30.129] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[14Aug2025 04:33:30.067] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 04:34:30.048] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 04:35:26.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:50914] logged in with entity id 160094 at (-1496.9604029482446, -25.0, 1523.4944781354886)
+[14Aug2025 04:35:26.573] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 04:35:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 04:35:30.053] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 04:36:30.057] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 04:36:53.215] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[14Aug2025 04:37:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set own game mode to Creative Mode]
+[14Aug2025 04:37:19.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1533, y=62, z=1609} BlockPos{x=-1533, y=61, z=1609}
+[14Aug2025 04:37:30.144] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 04:37:56.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Timed out
+[14Aug2025 04:37:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 04:37:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set own game mode to Survival Mode]
+[14Aug2025 04:38:09.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51167] logged in with entity id 161592 at (-1448.7937127396785, -52.0, 1585.5679865148263)
+[14Aug2025 04:38:09.872] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 04:38:09.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 04:38:19.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> -1575 1559
+[14Aug2025 04:38:30.060] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 04:38:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni drowned
+[14Aug2025 04:39:30.054] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 04:40:06.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 04:40:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 04:40:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> g
+[14Aug2025 04:40:21.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg
+[14Aug2025 04:40:30.071] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 04:40:46.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51226] logged in with entity id 162690 at (-1466.8232707872, -43.0, 1568.8426169676734)
+[14Aug2025 04:40:46.735] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 04:40:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 04:41:30.063] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 04:41:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zzzz
+[14Aug2025 04:41:57.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 04:41:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 04:42:30.113] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 04:42:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg
+[14Aug2025 04:42:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg tim
+[14Aug2025 04:42:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> c pajea*
+[14Aug2025 04:42:52.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[14Aug2025 04:42:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[14Aug2025 04:43:00.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51239] logged in with entity id 163431 at (-1494.4644508191743, -23.0, 1560.6676236755138)
+[14Aug2025 04:43:00.721] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 04:43:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 04:43:06.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:59444] logged in with entity id 163608 at (-1522.699999988079, 63.875, 1613.342368144006)
+[14Aug2025 04:43:06.972] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[14Aug2025 04:43:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[14Aug2025 04:43:30.061] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 04:44:17.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Cobblestone'/164293, l='ServerLevel[ey]', x=-1567.50, y=63.50, z=1553.50]
+[14Aug2025 04:44:17.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Snow-Covered Stairs'/164294, l='ServerLevel[ey]', x=-1567.50, y=63.50, z=1552.50]
+[14Aug2025 04:44:30.062] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 04:45:21.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165091, l='ServerLevel[ey]', x=-1536.50, y=-30.50, z=1532.50]
+[14Aug2025 04:45:21.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165093, l='ServerLevel[ey]', x=-1536.50, y=-31.50, z=1531.50]
+[14Aug2025 04:45:21.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165094, l='ServerLevel[ey]', x=-1537.50, y=-31.50, z=1530.50]
+[14Aug2025 04:45:21.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165095, l='ServerLevel[ey]', x=-1537.50, y=-31.50, z=1531.50]
+[14Aug2025 04:45:21.567] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165096, l='ServerLevel[ey]', x=-1537.50, y=-32.50, z=1530.50]
+[14Aug2025 04:45:21.567] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/165097, l='ServerLevel[ey]', x=-1536.50, y=-31.50, z=1530.50]
+[14Aug2025 04:45:30.060] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[14Aug2025 04:45:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> -1575 1559
+[14Aug2025 04:45:55.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos burned to death
+[14Aug2025 04:46:30.145] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 04:46:46.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has succumbed to the infection
+[14Aug2025 04:46:57.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium Slab'/167455, l='ServerLevel[ey]', x=38.50, y=107.50, z=-41.50]
+[14Aug2025 04:47:01.942] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Bloomed Mycelium'/168031, l='ServerLevel[ey]', x=-24.50, y=105.50, z=79.50]
+[14Aug2025 04:47:01.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Calcified Biomass'/168032, l='ServerLevel[ey]', x=-24.50, y=104.50, z=79.50]
+[14Aug2025 04:47:02.273] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Bloomed Mycelium'/168113, l='ServerLevel[ey]', x=6.50, y=123.50, z=-35.50]
+[14Aug2025 04:47:11.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Membrane'/168832, l='ServerLevel[ey]', x=55.50, y=96.50, z=-92.50]
+[14Aug2025 04:47:12.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/168889, l='ServerLevel[ey]', x=106.50, y=103.50, z=-77.50]
+[14Aug2025 04:47:12.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Bloomed Mycelium'/168890, l='ServerLevel[ey]', x=105.50, y=104.50, z=-77.50]
+[14Aug2025 04:47:12.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/168973, l='ServerLevel[ey]', x=-24.50, y=108.50, z=46.50]
+[14Aug2025 04:47:12.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Biomass Bulb'/168974, l='ServerLevel[ey]', x=-23.50, y=108.50, z=46.50]
+[14Aug2025 04:47:13.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Calcified Biomass'/169124, l='ServerLevel[ey]', x=-83.50, y=106.50, z=-76.50]
+[14Aug2025 04:47:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was slain by Usurper
+[14Aug2025 04:47:17.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/169539, l='ServerLevel[ey]', x=30.50, y=99.50, z=-53.50]
+[14Aug2025 04:47:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to 400.500000, 100.000000, 1912.500000]
+[14Aug2025 04:47:30.214] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 99 mobs in level: minecraft:overworld
+[14Aug2025 04:47:51.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=111, z=1867} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:47:51.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=111, z=1867} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:47:52.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=111, z=1865} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:47:52.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=111, z=1865} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:47:52.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=110, z=1864} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:47:52.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=110, z=1864} BlockPos{x=386, y=109, z=1866}
+[14Aug2025 04:48:30.080] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 04:48:48.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Rajmaninov'/171011, l='ServerLevel[ey]', x=359.86, y=96.00, z=1735.30] died: Rajmaninov was slain by Rajmaninov
+[14Aug2025 04:49:30.090] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 04:50:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was shot by Skeleton
+[14Aug2025 04:50:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> ez
+[14Aug2025 04:50:30.070] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 04:51:30.114] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 04:52:30.193] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 04:53:30.063] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 04:54:03.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[14Aug2025 04:54:08.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 04:54:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 04:54:34.252] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 04:55:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set own game mode to Creative Mode]
+[14Aug2025 04:55:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was slain by Zombie
+[14Aug2025 04:55:25.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/179312, l='ServerLevel[ey]', x=70.50, y=90.50, z=-51.50]
+[14Aug2025 04:55:26.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/179650, l='ServerLevel[ey]', x=33.50, y=70.50, z=-130.50]
+[14Aug2025 04:55:26.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/179651, l='ServerLevel[ey]', x=33.50, y=70.50, z=-131.50]
+[14Aug2025 04:55:27.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Crusted Bile'/179942, l='ServerLevel[ey]', x=-24.50, y=73.50, z=-16.50]
+[14Aug2025 04:55:27.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179943, l='ServerLevel[ey]', x=-25.50, y=72.50, z=-16.50]
+[14Aug2025 04:55:27.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179944, l='ServerLevel[ey]', x=-24.50, y=72.50, z=-17.50]
+[14Aug2025 04:55:27.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179945, l='ServerLevel[ey]', x=-25.50, y=74.50, z=-15.50]
+[14Aug2025 04:55:27.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179946, l='ServerLevel[ey]', x=-25.50, y=73.50, z=-16.50]
+[14Aug2025 04:55:27.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179947, l='ServerLevel[ey]', x=-25.50, y=74.50, z=-16.50]
+[14Aug2025 04:55:27.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/179948, l='ServerLevel[ey]', x=-25.50, y=75.50, z=-17.50]
+[14Aug2025 04:55:27.341] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Biomass'/180007, l='ServerLevel[ey]', x=23.50, y=122.50, z=-132.50]
+[14Aug2025 04:55:27.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/180008, l='ServerLevel[ey]', x=23.50, y=122.50, z=-131.50]
+[14Aug2025 04:55:27.679] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/180159, l='ServerLevel[ey]', x=-36.50, y=74.50, z=-92.50]
+[14Aug2025 04:55:27.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Biomass'/180160, l='ServerLevel[ey]', x=-36.50, y=73.50, z=-92.50]
+[14Aug2025 04:55:31.513] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/180804, l='ServerLevel[ey]', x=-47.50, y=69.50, z=50.50]
+[14Aug2025 04:55:31.513] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/180805, l='ServerLevel[ey]', x=-46.50, y=69.50, z=50.50]
+[14Aug2025 04:55:31.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/180873, l='ServerLevel[ey]', x=36.50, y=76.50, z=-73.50]
+[14Aug2025 04:55:31.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Biomass'/180874, l='ServerLevel[ey]', x=37.50, y=76.50, z=-73.50]
+[14Aug2025 04:55:31.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/180875, l='ServerLevel[ey]', x=36.50, y=77.50, z=-73.50]
+[14Aug2025 04:55:32.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/181023, l='ServerLevel[ey]', x=36.50, y=70.50, z=-133.50]
+[14Aug2025 04:55:32.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/181024, l='ServerLevel[ey]', x=37.50, y=70.50, z=-133.50]
+[14Aug2025 04:55:32.646] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/181177, l='ServerLevel[ey]', x=-73.50, y=72.50, z=-68.50]
+[14Aug2025 04:55:32.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/181178, l='ServerLevel[ey]', x=-74.50, y=72.50, z=-68.50]
+[14Aug2025 04:55:34.354] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 88 mobs in level: minecraft:overworld
+[14Aug2025 04:55:34.355] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 34 mobs in level: minecraft:overworld
+[14Aug2025 04:55:35.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/181498, l='ServerLevel[ey]', x=-42.50, y=75.50, z=44.50]
+[14Aug2025 04:55:38.385] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/182050, l='ServerLevel[ey]', x=1.50, y=83.50, z=28.50]
+[14Aug2025 04:55:39.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/182282, l='ServerLevel[ey]', x=-21.50, y=100.50, z=-9.50]
+[14Aug2025 04:55:39.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/182283, l='ServerLevel[ey]', x=-22.50, y=100.50, z=-9.50]
+[14Aug2025 04:55:39.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/182344, l='ServerLevel[ey]', x=-19.50, y=106.50, z=-98.50]
+[14Aug2025 04:55:45.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58020] logged in with entity id 183101 at (-1580.9876291133967, 64.0, 1568.0034433009087)
+[14Aug2025 04:55:45.103] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 04:55:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 04:55:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to -864.500000, 65.000000, 1500.500000]
+[14Aug2025 04:55:46.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> -1512 1549
+[14Aug2025 04:55:56.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set own game mode to Survival Mode]
+[14Aug2025 04:56:34.270] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 23 mobs in level: minecraft:overworld
+[14Aug2025 04:56:37.180] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[14Aug2025 04:57:21.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185863, l='ServerLevel[ey]', x=-1174.50, y=64.50, z=1589.50]
+[14Aug2025 04:57:21.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185864, l='ServerLevel[ey]', x=-1175.50, y=64.50, z=1590.50]
+[14Aug2025 04:57:21.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185865, l='ServerLevel[ey]', x=-1173.50, y=65.50, z=1589.50]
+[14Aug2025 04:57:21.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185866, l='ServerLevel[ey]', x=-1175.50, y=63.50, z=1589.50]
+[14Aug2025 04:57:21.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/185867, l='ServerLevel[ey]', x=-1174.50, y=63.50, z=1588.50]
+[14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185868, l='ServerLevel[ey]', x=-1174.50, y=64.50, z=1588.50]
+[14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/185869, l='ServerLevel[ey]', x=-1173.50, y=65.50, z=1588.50]
+[14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/185870, l='ServerLevel[ey]', x=-1174.50, y=65.50, z=1587.50]
