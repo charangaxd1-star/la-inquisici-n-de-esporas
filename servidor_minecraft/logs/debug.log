@@ -5939,3 +5939,990 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 02:36:02.581] [Server thread/DEBUG] [pointblank/]: 62581 obtained hit results
 [14Aug2025 02:36:02.581] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@333a6396
 [14Aug2025 02:36:02.582] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.26, y=62.00, z=1347.68] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.26, y=62.00, z=1347.68]
+[14Aug2025 02:36:05.856] [Server thread/DEBUG] [pointblank/]: 65856 handling client fire request
+[14Aug2025 02:36:05.856] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 3
+[14Aug2025 02:36:05.856] [Server thread/DEBUG] [pointblank/]: 65856 - obtained hit result in 0ms
+[14Aug2025 02:36:05.856] [Server thread/DEBUG] [pointblank/]: 65856 obtained hit results
+[14Aug2025 02:36:05.856] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@708a4c68
+[14Aug2025 02:36:05.857] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=142.85, y=62.00, z=1347.93] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=142.85, y=62.00, z=1347.93]
+[14Aug2025 02:36:08.204] [Server thread/DEBUG] [pointblank/]: 68204 handling client fire request
+[14Aug2025 02:36:08.204] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 2
+[14Aug2025 02:36:08.204] [Server thread/DEBUG] [pointblank/]: 68204 - obtained hit result in 0ms
+[14Aug2025 02:36:08.204] [Server thread/DEBUG] [pointblank/]: 68204 obtained hit results
+[14Aug2025 02:36:08.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b850a6e
+[14Aug2025 02:36:08.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.30, y=63.00, z=1350.12] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.30, y=63.00, z=1350.12]
+[14Aug2025 02:36:10.102] [Server thread/DEBUG] [pointblank/]: 70102 handling client fire request
+[14Aug2025 02:36:10.102] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 1
+[14Aug2025 02:36:10.103] [Server thread/DEBUG] [pointblank/]: 70103 - obtained hit result in 1ms
+[14Aug2025 02:36:10.103] [Server thread/DEBUG] [pointblank/]: 70103 obtained hit results
+[14Aug2025 02:36:10.103] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1075d7e
+[14Aug2025 02:36:10.104] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.67, y=63.00, z=1351.42] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.67, y=63.00, z=1351.42]
+[14Aug2025 02:36:11.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[14Aug2025 02:36:11.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[14Aug2025 02:36:11.251] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:36:12.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3066106100770867,0.7538069141176607,10.501838430102453
+[14Aug2025 02:36:12.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3308668144381386,0.7804393740085374,11.38429367969593
+[14Aug2025 02:36:12.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3557624241888675,0.8042564824746421,12.26833028094461
+[14Aug2025 02:36:12.364] [Server thread/DEBUG] [pointblank/]: 72364 handling client fire request
+[14Aug2025 02:36:12.364] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 0
+[14Aug2025 02:36:12.364] [Server thread/DEBUG] [pointblank/]: 72364 - obtained hit result in 0ms
+[14Aug2025 02:36:12.364] [Server thread/DEBUG] [pointblank/]: 72364 obtained hit results
+[14Aug2025 02:36:12.364] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@352470e
+[14Aug2025 02:36:12.365] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.67, y=63.00, z=1351.42] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=140.67, y=63.00, z=1351.42]
+[14Aug2025 02:36:12.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3814981120456764,0.8257333884547364,13.153956419702354
+[14Aug2025 02:36:12.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.40827448299944535,0.8452907474097344,14.041162579127558
+[14Aug2025 02:36:12.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.4362898914183688,0.8632945962118157,14.929924079101966
+[14Aug2025 02:36:12.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.4657382353440198,0.8800574609508374,15.820204605248364
+[14Aug2025 02:36:12.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.49680668709686415,0.8958403957158652,16.711958667095132
+[14Aug2025 02:36:12.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.5296735297483224,0.9108557699388342,17.605135807386432
+[14Aug2025 02:36:12.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.5645059541522528,0.9252705712363962,18.499682231723455
+[14Aug2025 02:36:12.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.6014580614784109,0.9392101317474157,19.395544275309476
+[14Aug2025 02:36:12.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[14Aug2025 02:36:12.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3578738613321093,0.22893097971302723,10.671735748959236
+[14Aug2025 02:36:12.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.3994659830206615,0.24214956059306303,11.570079654293295
+[14Aug2025 02:36:12.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 0.44354351362062516,0.25505964079128773,12.46959981767941
+[14Aug2025 02:36:13.108] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:36:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo was blown up by Creeper
+[14Aug2025 02:36:20.610] [Server thread/DEBUG] [pointblank/]: 80610 handling client fire request
+[14Aug2025 02:36:20.611] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:36:20.611] [Server thread/DEBUG] [pointblank/]: 80611 - obtained hit result in 0ms
+[14Aug2025 02:36:20.611] [Server thread/DEBUG] [pointblank/]: 80611 obtained hit results
+[14Aug2025 02:36:20.611] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cf57c7d
+[14Aug2025 02:36:20.611] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=144.65, y=62.59, z=1349.02] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=144.65, y=62.59, z=1349.02]
+[14Aug2025 02:36:22.811] [Server thread/DEBUG] [pointblank/]: 82811 handling client fire request
+[14Aug2025 02:36:22.811] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:36:22.811] [Server thread/DEBUG] [pointblank/]: 82811 - obtained hit result in 0ms
+[14Aug2025 02:36:22.811] [Server thread/DEBUG] [pointblank/]: 82811 obtained hit results
+[14Aug2025 02:36:22.811] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f69f1a7
+[14Aug2025 02:36:22.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.49, y=62.12, z=1352.70] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.49, y=62.12, z=1352.70]
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: 83191 handling client fire request
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 5
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: 83191 - obtained hit result in 0ms
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: 83191 obtained hit results
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@13fab0f
+[14Aug2025 02:36:23.191] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.31, y=62.00, z=1352.66] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.31, y=62.00, z=1352.66]
+[14Aug2025 02:36:23.704] [Server thread/DEBUG] [pointblank/]: 83704 handling client fire request
+[14Aug2025 02:36:23.704] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 4
+[14Aug2025 02:36:23.704] [Server thread/DEBUG] [pointblank/]: 83704 - obtained hit result in 0ms
+[14Aug2025 02:36:23.704] [Server thread/DEBUG] [pointblank/]: 83704 obtained hit results
+[14Aug2025 02:36:23.704] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f7ee350
+[14Aug2025 02:36:23.706] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65]
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: 84180 handling client fire request
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 3
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: 84180 - obtained hit result in 0ms
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: 84180 obtained hit results
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32271085
+[14Aug2025 02:36:24.180] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65]
+[14Aug2025 02:36:25.205] [Server thread/DEBUG] [pointblank/]: 85205 handling client fire request
+[14Aug2025 02:36:25.205] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 2
+[14Aug2025 02:36:25.205] [Server thread/DEBUG] [pointblank/]: 85205 - obtained hit result in 0ms
+[14Aug2025 02:36:25.205] [Server thread/DEBUG] [pointblank/]: 85205 obtained hit results
+[14Aug2025 02:36:25.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d6dce2a
+[14Aug2025 02:36:25.206] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65]
+[14Aug2025 02:36:26.368] [Server thread/DEBUG] [pointblank/]: 86368 handling client fire request
+[14Aug2025 02:36:26.368] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 1
+[14Aug2025 02:36:26.368] [Server thread/DEBUG] [pointblank/]: 86368 - obtained hit result in 0ms
+[14Aug2025 02:36:26.368] [Server thread/DEBUG] [pointblank/]: 86368 obtained hit results
+[14Aug2025 02:36:26.368] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73480628
+[14Aug2025 02:36:26.369] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.30, y=62.00, z=1352.65]
+[14Aug2025 02:36:26.963] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:36:29.307] [Server thread/DEBUG] [pointblank/]: 89307 handling client fire request
+[14Aug2025 02:36:29.307] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:36:29.307] [Server thread/DEBUG] [pointblank/]: 89307 - obtained hit result in 0ms
+[14Aug2025 02:36:29.307] [Server thread/DEBUG] [pointblank/]: 89307 obtained hit results
+[14Aug2025 02:36:29.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24e078d
+[14Aug2025 02:36:29.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=142.31, y=63.00, z=1352.40] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=142.31, y=63.00, z=1352.40]
+[14Aug2025 02:36:40.102] [Server thread/DEBUG] [pointblank/]: 102 handling client fire request
+[14Aug2025 02:36:40.102] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:36:40.102] [Server thread/DEBUG] [pointblank/]: 102 - obtained hit result in 0ms
+[14Aug2025 02:36:40.102] [Server thread/DEBUG] [pointblank/]: 102 obtained hit results
+[14Aug2025 02:36:40.102] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63dc7f83
+[14Aug2025 02:36:40.103] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.08, y=65.00, z=1335.29] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.08, y=65.00, z=1335.29]
+[14Aug2025 02:36:41.191] [Server thread/DEBUG] [pointblank/]: 1191 handling client fire request
+[14Aug2025 02:36:41.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 5
+[14Aug2025 02:36:41.191] [Server thread/DEBUG] [pointblank/]: 1191 - obtained hit result in 0ms
+[14Aug2025 02:36:41.191] [Server thread/DEBUG] [pointblank/]: 1191 obtained hit results
+[14Aug2025 02:36:41.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2df5d46
+[14Aug2025 02:36:41.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.08, y=65.00, z=1335.29] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.08, y=65.00, z=1335.29]
+[14Aug2025 02:36:42.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14Aug2025 02:36:47.041] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[14Aug2025 02:36:48.551] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of natures_spirit:village/wisteria/town_centers/wisteria_meeting_point_1
+[14Aug2025 02:36:50.441] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[14Aug2025 02:36:50.470] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[14Aug2025 02:36:54.816] [Server thread/DEBUG] [pointblank/]: 14816 handling client fire request
+[14Aug2025 02:36:54.816] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 4
+[14Aug2025 02:36:54.816] [Server thread/DEBUG] [pointblank/]: 14816 - obtained hit result in 0ms
+[14Aug2025 02:36:54.816] [Server thread/DEBUG] [pointblank/]: 14816 obtained hit results
+[14Aug2025 02:36:54.816] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@637fa4f0
+[14Aug2025 02:36:54.817] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.49, y=62.00, z=1349.82] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=143.49, y=62.00, z=1349.82]
+[14Aug2025 02:37:10.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 02:37:14.727] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 02:37:40.244] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/41858, l='ServerLevel[ey]', x=97.50, y=66.50, z=2828.50]
+[14Aug2025 02:37:40.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 02:38:13.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42632, l='ServerLevel[ey]', x=95.50, y=62.50, z=2828.50]
+[14Aug2025 02:38:13.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42633, l='ServerLevel[ey]', x=97.50, y=62.50, z=2828.50]
+[14Aug2025 02:38:13.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42634, l='ServerLevel[ey]', x=96.50, y=61.50, z=2828.50]
+[14Aug2025 02:38:13.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42635, l='ServerLevel[ey]', x=98.50, y=62.50, z=2827.50]
+[14Aug2025 02:38:13.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42636, l='ServerLevel[ey]', x=96.50, y=63.50, z=2829.50]
+[14Aug2025 02:38:13.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42637, l='ServerLevel[ey]', x=96.50, y=62.50, z=2828.50]
+[14Aug2025 02:38:13.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42638, l='ServerLevel[ey]', x=97.50, y=62.50, z=2827.50]
+[14Aug2025 02:38:13.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42639, l='ServerLevel[ey]', x=97.50, y=61.50, z=2829.50]
+[14Aug2025 02:38:13.757] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42640, l='ServerLevel[ey]', x=98.50, y=63.50, z=2829.50]
+[14Aug2025 02:38:13.757] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42641, l='ServerLevel[ey]', x=96.50, y=61.50, z=2829.50]
+[14Aug2025 02:38:13.757] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/42642, l='ServerLevel[ey]', x=97.50, y=61.50, z=2828.50]
+[14Aug2025 02:38:14.360] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 15 mobs in level: minecraft:overworld
+[14Aug2025 02:38:17.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[14Aug2025 02:38:48.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/43136, l='ServerLevel[ey]', x=216.50, y=65.50, z=2352.50]
+[14Aug2025 02:38:48.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/43137, l='ServerLevel[ey]', x=217.50, y=66.50, z=2352.50]
+[14Aug2025 02:38:48.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/43138, l='ServerLevel[ey]', x=215.50, y=66.50, z=2351.50]
+[14Aug2025 02:39:14.331] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: 58276 handling client fire request
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 3
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: 58276 - obtained hit result in 0ms
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: 58276 obtained hit results
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3af03e42
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71]
+[14Aug2025 02:39:18.276] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=155.03, y=60.00, z=1383.38]
+[14Aug2025 02:39:19.887] [Server thread/DEBUG] [pointblank/]: 59887 handling client fire request
+[14Aug2025 02:39:19.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 2
+[14Aug2025 02:39:19.887] [Server thread/DEBUG] [pointblank/]: 59887 - obtained hit result in 0ms
+[14Aug2025 02:39:19.887] [Server thread/DEBUG] [pointblank/]: 59887 obtained hit results
+[14Aug2025 02:39:19.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d741eff
+[14Aug2025 02:39:19.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71]
+[14Aug2025 02:39:19.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=155.12, y=60.00, z=1383.70]
+[14Aug2025 02:39:19.919] [Server thread/DEBUG] [pointblank/]: 59919 handling client fire request
+[14Aug2025 02:39:19.919] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 1
+[14Aug2025 02:39:19.919] [Server thread/DEBUG] [pointblank/]: 59919 - obtained hit result in 0ms
+[14Aug2025 02:39:19.919] [Server thread/DEBUG] [pointblank/]: 59919 obtained hit results
+[14Aug2025 02:39:19.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@434322b8
+[14Aug2025 02:39:19.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=155.12, y=60.00, z=1383.70] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=154.07, y=60.00, z=1379.71]
+[14Aug2025 02:39:19.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=155.12, y=60.00, z=1383.70] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=155.12, y=60.00, z=1383.70]
+[14Aug2025 02:40:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo drowned
+[14Aug2025 02:40:14.342] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 02:40:45.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to -371.500000, 111.000000, 1828.500000]
+[14Aug2025 02:40:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo fell from a high place
+[14Aug2025 02:41:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to -371.500000, 63.000000, 1828.500000]
+[14Aug2025 02:41:13.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/32944, l='ServerLevel[ey]', x=129.83, y=70.02, z=1411.59] died, message: 'Armorer was slain by Zombie'
+[14Aug2025 02:41:14.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[14Aug2025 02:41:14.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[14Aug2025 02:41:14.448] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: 1883 handling client fire request
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 0
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: 1884 - obtained hit result in 0ms
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: 1884 obtained hit results
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cf2897f
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=114.36, y=54.00, z=1397.93] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=111.96, y=55.00, z=1397.30]
+[14Aug2025 02:41:41.884] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=114.36, y=54.00, z=1397.93] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=114.36, y=54.00, z=1397.93]
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: 3820 handling client fire request
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 3
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: 3820 - obtained hit result in 0ms
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: 3820 obtained hit results
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@291fdcce
+[14Aug2025 02:41:43.820] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-373.45, y=67.00, z=1894.47] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-373.45, y=67.00, z=1894.47]
+[14Aug2025 02:41:44.312] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 8
+[14Aug2025 02:41:44.771] [Server thread/DEBUG] [pointblank/]: 4771 handling client fire request
+[14Aug2025 02:41:44.772] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 2
+[14Aug2025 02:41:44.772] [Server thread/DEBUG] [pointblank/]: 4772 - obtained hit result in 0ms
+[14Aug2025 02:41:44.772] [Server thread/DEBUG] [pointblank/]: 4772 obtained hit results
+[14Aug2025 02:41:44.772] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@510dcced
+[14Aug2025 02:41:44.772] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-372.84, y=67.00, z=1895.92] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-372.84, y=67.00, z=1895.92]
+[14Aug2025 02:41:45.662] [Server thread/DEBUG] [pointblank/]: 5662 handling client fire request
+[14Aug2025 02:41:45.662] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 1
+[14Aug2025 02:41:45.662] [Server thread/DEBUG] [pointblank/]: 5662 - obtained hit result in 0ms
+[14Aug2025 02:41:45.662] [Server thread/DEBUG] [pointblank/]: 5662 obtained hit results
+[14Aug2025 02:41:45.662] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b21ea3b
+[14Aug2025 02:41:45.663] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-372.31, y=67.00, z=1897.65] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-372.31, y=67.00, z=1897.65]
+[14Aug2025 02:41:48.324] [Server thread/DEBUG] [pointblank/]: 8324 handling client fire request
+[14Aug2025 02:41:48.324] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 0
+[14Aug2025 02:41:48.324] [Server thread/DEBUG] [pointblank/]: 8324 - obtained hit result in 0ms
+[14Aug2025 02:41:48.325] [Server thread/DEBUG] [pointblank/]: 8325 obtained hit results
+[14Aug2025 02:41:48.325] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@181261d1
+[14Aug2025 02:41:48.326] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.34, y=67.00, z=1896.73] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.34, y=67.00, z=1896.73]
+[14Aug2025 02:41:49.743] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:41:52.580] [Server thread/DEBUG] [pointblank/]: 12580 handling client fire request
+[14Aug2025 02:41:52.581] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:41:52.581] [Server thread/DEBUG] [pointblank/]: 12581 - obtained hit result in 0ms
+[14Aug2025 02:41:52.581] [Server thread/DEBUG] [pointblank/]: 12581 obtained hit results
+[14Aug2025 02:41:52.581] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@743e65fc
+[14Aug2025 02:41:52.581] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34]
+[14Aug2025 02:41:53.485] [Server thread/DEBUG] [pointblank/]: 13485 handling client fire request
+[14Aug2025 02:41:53.485] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:41:53.485] [Server thread/DEBUG] [pointblank/]: 13485 - obtained hit result in 0ms
+[14Aug2025 02:41:53.485] [Server thread/DEBUG] [pointblank/]: 13485 obtained hit results
+[14Aug2025 02:41:53.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d4210d5
+[14Aug2025 02:41:53.486] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34]
+[14Aug2025 02:41:54.105] [Server thread/DEBUG] [pointblank/]: 14105 handling client fire request
+[14Aug2025 02:41:54.105] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:41:54.105] [Server thread/DEBUG] [pointblank/]: 14105 - obtained hit result in 0ms
+[14Aug2025 02:41:54.105] [Server thread/DEBUG] [pointblank/]: 14105 obtained hit results
+[14Aug2025 02:41:54.105] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a7c047e
+[14Aug2025 02:41:54.106] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.20, y=67.00, z=1896.34]
+[14Aug2025 02:42:03.749] [Server thread/DEBUG] [pointblank/]: 23749 handling client fire request
+[14Aug2025 02:42:03.749] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:42:03.749] [Server thread/DEBUG] [pointblank/]: 23749 - obtained hit result in 0ms
+[14Aug2025 02:42:03.749] [Server thread/DEBUG] [pointblank/]: 23749 obtained hit results
+[14Aug2025 02:42:03.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7241f98c
+[14Aug2025 02:42:03.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-374.34, y=68.00, z=1887.89] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-374.34, y=68.00, z=1887.89]
+[14Aug2025 02:42:07.174] [Server thread/DEBUG] [pointblank/]: 27174 handling client fire request
+[14Aug2025 02:42:07.174] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 7
+[14Aug2025 02:42:07.174] [Server thread/DEBUG] [pointblank/]: 27174 - obtained hit result in 0ms
+[14Aug2025 02:42:07.174] [Server thread/DEBUG] [pointblank/]: 27174 obtained hit results
+[14Aug2025 02:42:07.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a8ff3d0
+[14Aug2025 02:42:07.175] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=95.72, y=62.00, z=1385.35] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=93.52, y=64.12, z=1393.70]
+[14Aug2025 02:42:07.175] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=95.72, y=62.00, z=1385.35] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=95.72, y=62.00, z=1385.35]
+[14Aug2025 02:42:07.559] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:42:14.352] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 11 mobs in level: minecraft:overworld
+[14Aug2025 02:42:15.665] [Server thread/DEBUG] [pointblank/]: 35665 handling client fire request
+[14Aug2025 02:42:15.665] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 1
+[14Aug2025 02:42:15.666] [Server thread/DEBUG] [pointblank/]: 35666 - obtained hit result in 1ms
+[14Aug2025 02:42:15.666] [Server thread/DEBUG] [pointblank/]: 35666 obtained hit results
+[14Aug2025 02:42:15.666] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5362e443
+[14Aug2025 02:42:15.667] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=76.36, y=71.00, z=1389.87] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=76.36, y=71.00, z=1389.87]
+[14Aug2025 02:42:15.667] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=76.36, y=71.00, z=1389.87] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=87.17, y=70.00, z=1398.36]
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: 39208 handling client fire request
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 0
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: 39208 - obtained hit result in 0ms
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: 39208 obtained hit results
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f57d14a
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=81.42, y=71.00, z=1390.09] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=81.42, y=71.00, z=1390.09]
+[14Aug2025 02:42:19.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=81.42, y=71.00, z=1390.09] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=82.34, y=70.00, z=1399.63]
+[14Aug2025 02:42:21.075] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:42:27.871] [Server thread/DEBUG] [pointblank/]: 47871 handling client fire request
+[14Aug2025 02:42:27.871] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 6
+[14Aug2025 02:42:27.871] [Server thread/DEBUG] [pointblank/]: 47871 - obtained hit result in 0ms
+[14Aug2025 02:42:27.871] [Server thread/DEBUG] [pointblank/]: 47871 obtained hit results
+[14Aug2025 02:42:27.871] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33e045e5
+[14Aug2025 02:42:27.873] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=58.18, y=72.00, z=1396.69] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=52.65, y=72.42, z=1379.23]
+[14Aug2025 02:42:27.873] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=58.18, y=72.00, z=1396.69] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=58.18, y=72.00, z=1396.69]
+[14Aug2025 02:42:29.292] [Server thread/DEBUG] [pointblank/]: 49292 handling client fire request
+[14Aug2025 02:42:29.292] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 5
+[14Aug2025 02:42:29.292] [Server thread/DEBUG] [pointblank/]: 49292 - obtained hit result in 0ms
+[14Aug2025 02:42:29.292] [Server thread/DEBUG] [pointblank/]: 49292 obtained hit results
+[14Aug2025 02:42:29.292] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6935eaca
+[14Aug2025 02:42:29.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=55.81, y=72.00, z=1396.71] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=50.45, y=72.00, z=1378.37]
+[14Aug2025 02:42:29.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=55.81, y=72.00, z=1396.71] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=55.81, y=72.00, z=1396.71]
+[14Aug2025 02:42:39.746] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 8
+[14Aug2025 02:43:10.219] [Server thread/DEBUG] [pointblank/]: 90219 handling client fire request
+[14Aug2025 02:43:10.219] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 7
+[14Aug2025 02:43:10.219] [Server thread/DEBUG] [pointblank/]: 90219 - obtained hit result in 0ms
+[14Aug2025 02:43:10.219] [Server thread/DEBUG] [pointblank/]: 90219 obtained hit results
+[14Aug2025 02:43:10.219] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12e44c91
+[14Aug2025 02:43:10.220] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.82, y=70.00, z=1315.38] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=30.15, y=69.00, z=1312.98]
+[14Aug2025 02:43:10.220] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.82, y=70.00, z=1315.38] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.82, y=70.00, z=1315.38]
+[14Aug2025 02:43:11.446] [Server thread/DEBUG] [pointblank/]: 91446 handling client fire request
+[14Aug2025 02:43:11.446] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 6
+[14Aug2025 02:43:11.446] [Server thread/DEBUG] [pointblank/]: 91446 - obtained hit result in 0ms
+[14Aug2025 02:43:11.446] [Server thread/DEBUG] [pointblank/]: 91446 obtained hit results
+[14Aug2025 02:43:11.446] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e3ba700
+[14Aug2025 02:43:11.447] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.59, y=70.00, z=1318.48] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.28, y=69.00, z=1310.70]
+[14Aug2025 02:43:11.447] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.59, y=70.00, z=1318.48] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.59, y=70.00, z=1318.48]
+[14Aug2025 02:43:11.549] [Server thread/DEBUG] [pointblank/]: 91549 handling client fire request
+[14Aug2025 02:43:11.550] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:43:11.550] [Server thread/DEBUG] [pointblank/]: 91550 - obtained hit result in 0ms
+[14Aug2025 02:43:11.550] [Server thread/DEBUG] [pointblank/]: 91550 obtained hit results
+[14Aug2025 02:43:11.550] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10112bc4
+[14Aug2025 02:43:11.551] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.28, y=69.00, z=1310.70] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.28, y=69.00, z=1310.70]
+[14Aug2025 02:43:11.551] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.28, y=69.00, z=1310.70] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.60, y=70.00, z=1318.69]
+[14Aug2025 02:43:12.973] [Server thread/DEBUG] [pointblank/]: 92973 handling client fire request
+[14Aug2025 02:43:12.973] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:43:12.974] [Server thread/DEBUG] [pointblank/]: 92974 - obtained hit result in 1ms
+[14Aug2025 02:43:12.974] [Server thread/DEBUG] [pointblank/]: 92974 obtained hit results
+[14Aug2025 02:43:12.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@793edb8
+[14Aug2025 02:43:12.975] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30]
+[14Aug2025 02:43:12.975] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.73, y=64.31, z=1321.16]
+[14Aug2025 02:43:13.392] [Server thread/DEBUG] [pointblank/]: 93392 handling client fire request
+[14Aug2025 02:43:13.392] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 5
+[14Aug2025 02:43:13.393] [Server thread/DEBUG] [pointblank/]: 93393 - obtained hit result in 0ms
+[14Aug2025 02:43:13.393] [Server thread/DEBUG] [pointblank/]: 93393 obtained hit results
+[14Aug2025 02:43:13.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4cc287df
+[14Aug2025 02:43:13.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30]
+[14Aug2025 02:43:13.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=28.20, y=68.00, z=1309.30] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=28.72, y=55.45, z=1320.82]
+[14Aug2025 02:43:13.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni was doomed to fall by Rajmaninov
+[14Aug2025 02:43:14.370] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 02:43:14.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ezrealdelcolo> -357 73 1850
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: 22175 handling client fire request
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: 22175 - obtained hit result in 0ms
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: 22175 obtained hit results
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@440a95e4
+[14Aug2025 02:43:42.175] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.21, y=74.00, z=1841.82] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.21, y=74.00, z=1841.82]
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: 23527 handling client fire request
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: 23527 - obtained hit result in 0ms
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: 23527 obtained hit results
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56bc8530
+[14Aug2025 02:43:43.527] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.21, y=74.00, z=1841.82] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.21, y=74.00, z=1841.82]
+[14Aug2025 02:43:44.977] [Server thread/DEBUG] [pointblank/]: 24977 handling client fire request
+[14Aug2025 02:43:44.978] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:43:44.978] [Server thread/DEBUG] [pointblank/]: 24978 - obtained hit result in 0ms
+[14Aug2025 02:43:44.978] [Server thread/DEBUG] [pointblank/]: 24978 obtained hit results
+[14Aug2025 02:43:44.978] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b669e7f
+[14Aug2025 02:43:44.978] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.00, y=74.00, z=1841.43] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-355.00, y=74.00, z=1841.43]
+[14Aug2025 02:43:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to Rajmaninov]
+[14Aug2025 02:43:48.521] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:43:58.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[14Aug2025 02:44:14.330] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:44:27.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to -356.500000, 73.000000, 1850.500000]
+[14Aug2025 02:45:14.339] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 15 mobs in level: minecraft:overworld
+[14Aug2025 02:45:19.420] [Server thread/DEBUG] [pointblank/]: 19420 handling client fire request
+[14Aug2025 02:45:19.420] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 4
+[14Aug2025 02:45:19.420] [Server thread/DEBUG] [pointblank/]: 19420 - obtained hit result in 0ms
+[14Aug2025 02:45:19.420] [Server thread/DEBUG] [pointblank/]: 19420 obtained hit results
+[14Aug2025 02:45:19.420] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@326fce0
+[14Aug2025 02:45:19.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28]
+[14Aug2025 02:45:19.421] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.76, y=54.00, z=1316.55]
+[14Aug2025 02:45:19.597] [Server thread/DEBUG] [pointblank/]: 19597 handling client fire request
+[14Aug2025 02:45:19.597] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 3
+[14Aug2025 02:45:19.597] [Server thread/DEBUG] [pointblank/]: 19597 - obtained hit result in 0ms
+[14Aug2025 02:45:19.597] [Server thread/DEBUG] [pointblank/]: 19597 obtained hit results
+[14Aug2025 02:45:19.597] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a73c9f9
+[14Aug2025 02:45:19.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28]
+[14Aug2025 02:45:19.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.57, y=54.00, z=1316.68]
+[14Aug2025 02:45:19.744] [Server thread/DEBUG] [pointblank/]: 19744 handling client fire request
+[14Aug2025 02:45:19.744] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 2
+[14Aug2025 02:45:19.744] [Server thread/DEBUG] [pointblank/]: 19744 - obtained hit result in 0ms
+[14Aug2025 02:45:19.744] [Server thread/DEBUG] [pointblank/]: 19744 obtained hit results
+[14Aug2025 02:45:19.744] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3de94593
+[14Aug2025 02:45:19.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28]
+[14Aug2025 02:45:19.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.28] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.35, y=54.00, z=1316.68]
+[14Aug2025 02:45:20.116] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/50189, l='ServerLevel[ey]', x=23.50, y=49.50, z=1322.50]
+[14Aug2025 02:45:20.117] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/50190, l='ServerLevel[ey]', x=24.50, y=49.50, z=1320.50]
+[14Aug2025 02:45:20.117] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/50191, l='ServerLevel[ey]', x=22.50, y=50.50, z=1320.50]
+[14Aug2025 02:45:20.449] [Server thread/DEBUG] [pointblank/]: 20449 handling client fire request
+[14Aug2025 02:45:20.449] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 1
+[14Aug2025 02:45:20.449] [Server thread/DEBUG] [pointblank/]: 20449 - obtained hit result in 0ms
+[14Aug2025 02:45:20.449] [Server thread/DEBUG] [pointblank/]: 20449 obtained hit results
+[14Aug2025 02:45:20.449] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27722356
+[14Aug2025 02:45:20.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.27] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.27]
+[14Aug2025 02:45:20.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.69, y=54.00, z=1317.27] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.52, y=54.00, z=1316.60]
+[14Aug2025 02:45:21.453] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:45:25.069] [Server thread/DEBUG] [pointblank/]: 25069 handling client fire request
+[14Aug2025 02:45:25.069] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:45:25.070] [Server thread/DEBUG] [pointblank/]: 25070 - obtained hit result in 1ms
+[14Aug2025 02:45:25.070] [Server thread/DEBUG] [pointblank/]: 25070 obtained hit results
+[14Aug2025 02:45:25.070] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62af59b
+[14Aug2025 02:45:25.070] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.50, y=63.00, z=1839.05] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.50, y=63.00, z=1839.05]
+[14Aug2025 02:45:25.732] [Server thread/DEBUG] [pointblank/]: 25732 handling client fire request
+[14Aug2025 02:45:25.732] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:45:25.733] [Server thread/DEBUG] [pointblank/]: 25733 - obtained hit result in 1ms
+[14Aug2025 02:45:25.733] [Server thread/DEBUG] [pointblank/]: 25733 obtained hit results
+[14Aug2025 02:45:25.733] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ca01e7e
+[14Aug2025 02:45:25.733] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.69, y=63.00, z=1838.62] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.69, y=63.00, z=1838.62]
+[14Aug2025 02:45:26.312] [Server thread/DEBUG] [pointblank/]: 26312 handling client fire request
+[14Aug2025 02:45:26.312] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:45:26.312] [Server thread/DEBUG] [pointblank/]: 26312 - obtained hit result in 0ms
+[14Aug2025 02:45:26.313] [Server thread/DEBUG] [pointblank/]: 26313 obtained hit results
+[14Aug2025 02:45:26.313] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e1e124
+[14Aug2025 02:45:26.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.77, y=63.00, z=1838.20] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.77, y=63.00, z=1838.20]
+[14Aug2025 02:45:26.475] [Server thread/DEBUG] [pointblank/]: 26475 handling client fire request
+[14Aug2025 02:45:26.476] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:45:26.476] [Server thread/DEBUG] [pointblank/]: 26476 - obtained hit result in 0ms
+[14Aug2025 02:45:26.476] [Server thread/DEBUG] [pointblank/]: 26476 obtained hit results
+[14Aug2025 02:45:26.476] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7d2a6702
+[14Aug2025 02:45:26.476] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.85, y=63.00, z=1837.63] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-354.85, y=63.00, z=1837.63]
+[14Aug2025 02:45:27.029] [Server thread/DEBUG] [pointblank/]: 27029 handling client fire request
+[14Aug2025 02:45:27.029] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:45:27.029] [Server thread/DEBUG] [pointblank/]: 27029 - obtained hit result in 0ms
+[14Aug2025 02:45:27.029] [Server thread/DEBUG] [pointblank/]: 27029 obtained hit results
+[14Aug2025 02:45:27.029] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ad7818b
+[14Aug2025 02:45:27.030] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.51, y=53.00, z=1317.82] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.51, y=53.00, z=1317.82]
+[14Aug2025 02:45:27.030] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.51, y=53.00, z=1317.82] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.30, y=54.00, z=1317.29]
+[14Aug2025 02:45:28.070] [Server thread/DEBUG] [pointblank/]: 28070 handling client fire request
+[14Aug2025 02:45:28.070] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:45:28.070] [Server thread/DEBUG] [pointblank/]: 28070 - obtained hit result in 0ms
+[14Aug2025 02:45:28.070] [Server thread/DEBUG] [pointblank/]: 28070 obtained hit results
+[14Aug2025 02:45:28.070] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1b9b1d7c
+[14Aug2025 02:45:28.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.46, y=53.00, z=1318.10] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.46, y=53.00, z=1318.10]
+[14Aug2025 02:45:28.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.46, y=53.00, z=1318.10] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.30, y=54.00, z=1316.92]
+[14Aug2025 02:45:28.127] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:45:34.121] [Server thread/DEBUG] [pointblank/]: 34121 handling client fire request
+[14Aug2025 02:45:34.121] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 5
+[14Aug2025 02:45:34.121] [Server thread/DEBUG] [pointblank/]: 34121 - obtained hit result in 0ms
+[14Aug2025 02:45:34.121] [Server thread/DEBUG] [pointblank/]: 34121 obtained hit results
+[14Aug2025 02:45:34.121] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d8a7daf
+[14Aug2025 02:45:34.122] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.07, y=51.00, z=1318.77] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.07, y=51.00, z=1318.77]
+[14Aug2025 02:45:34.122] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.07, y=51.00, z=1318.77] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.53, y=53.00, z=1317.72]
+[14Aug2025 02:45:42.470] [Server thread/DEBUG] [pointblank/]: 42470 handling client fire request
+[14Aug2025 02:45:42.470] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 4
+[14Aug2025 02:45:42.470] [Server thread/DEBUG] [pointblank/]: 42470 - obtained hit result in 0ms
+[14Aug2025 02:45:42.470] [Server thread/DEBUG] [pointblank/]: 42470 obtained hit results
+[14Aug2025 02:45:42.470] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5cc2cffd
+[14Aug2025 02:45:42.471] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.89, y=47.00, z=1320.36] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.89, y=47.00, z=1320.36]
+[14Aug2025 02:45:42.471] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.89, y=47.00, z=1320.36] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.72, y=47.00, z=1322.33]
+[14Aug2025 02:45:44.043] [Server thread/DEBUG] [pointblank/]: 44043 handling client fire request
+[14Aug2025 02:45:44.043] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 3
+[14Aug2025 02:45:44.043] [Server thread/DEBUG] [pointblank/]: 44043 - obtained hit result in 0ms
+[14Aug2025 02:45:44.043] [Server thread/DEBUG] [pointblank/]: 44043 obtained hit results
+[14Aug2025 02:45:44.043] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4fc414c0
+[14Aug2025 02:45:44.044] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27]
+[14Aug2025 02:45:44.044] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.14, y=47.00, z=1321.51]
+[14Aug2025 02:45:45.572] [Server thread/DEBUG] [pointblank/]: 45572 handling client fire request
+[14Aug2025 02:45:45.572] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 2
+[14Aug2025 02:45:45.572] [Server thread/DEBUG] [pointblank/]: 45572 - obtained hit result in 0ms
+[14Aug2025 02:45:45.572] [Server thread/DEBUG] [pointblank/]: 45572 obtained hit results
+[14Aug2025 02:45:45.572] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46f1341d
+[14Aug2025 02:45:45.573] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27]
+[14Aug2025 02:45:45.573] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=26.83, y=47.00, z=1320.27] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.14, y=47.00, z=1321.51]
+[14Aug2025 02:45:46.768] [Server thread/DEBUG] [pointblank/]: 46768 handling client fire request
+[14Aug2025 02:45:46.768] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:45:46.769] [Server thread/DEBUG] [pointblank/]: 46769 - obtained hit result in 0ms
+[14Aug2025 02:45:46.769] [Server thread/DEBUG] [pointblank/]: 46769 obtained hit results
+[14Aug2025 02:45:46.769] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b2969af
+[14Aug2025 02:45:46.769] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-357.62, y=67.50, z=1844.47] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-357.62, y=67.50, z=1844.47]
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: 46925 handling client fire request
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: 46926 - obtained hit result in 0ms
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: 46926 obtained hit results
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a87e658
+[14Aug2025 02:45:46.926] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-357.64, y=67.50, z=1844.47] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-357.64, y=67.50, z=1844.47]
+[14Aug2025 02:45:47.620] [Server thread/DEBUG] [pointblank/]: 47620 handling client fire request
+[14Aug2025 02:45:47.620] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 1
+[14Aug2025 02:45:47.621] [Server thread/DEBUG] [pointblank/]: 47621 - obtained hit result in 0ms
+[14Aug2025 02:45:47.621] [Server thread/DEBUG] [pointblank/]: 47621 obtained hit results
+[14Aug2025 02:45:47.621] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19ea521f
+[14Aug2025 02:45:47.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57]
+[14Aug2025 02:45:47.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.14, y=47.00, z=1321.51]
+[14Aug2025 02:45:48.071] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:45:49.472] [Server thread/DEBUG] [pointblank/]: 49472 handling client fire request
+[14Aug2025 02:45:49.472] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 0
+[14Aug2025 02:45:49.472] [Server thread/DEBUG] [pointblank/]: 49472 - obtained hit result in 0ms
+[14Aug2025 02:45:49.472] [Server thread/DEBUG] [pointblank/]: 49472 obtained hit results
+[14Aug2025 02:45:49.472] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@276a02af
+[14Aug2025 02:45:49.473] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57]
+[14Aug2025 02:45:49.473] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.14, y=47.00, z=1321.51]
+[14Aug2025 02:45:51.469] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:45:54.520] [Server thread/DEBUG] [pointblank/]: 54520 handling client fire request
+[14Aug2025 02:45:54.521] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:45:54.521] [Server thread/DEBUG] [pointblank/]: 54521 - obtained hit result in 0ms
+[14Aug2025 02:45:54.521] [Server thread/DEBUG] [pointblank/]: 54521 obtained hit results
+[14Aug2025 02:45:54.521] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3bdf84a0
+[14Aug2025 02:45:54.522] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57]
+[14Aug2025 02:45:54.522] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=27.07, y=47.00, z=1320.57] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.14, y=47.00, z=1321.51]
+[14Aug2025 02:46:14.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[14Aug2025 02:46:14.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[14Aug2025 02:46:14.495] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:46:44.143] [Server thread/DEBUG] [pointblank/]: 4143 handling client fire request
+[14Aug2025 02:46:44.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:46:44.143] [Server thread/DEBUG] [pointblank/]: 4143 - obtained hit result in 0ms
+[14Aug2025 02:46:44.143] [Server thread/DEBUG] [pointblank/]: 4143 obtained hit results
+[14Aug2025 02:46:44.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@154842d5
+[14Aug2025 02:46:44.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.26, y=67.00, z=1838.24] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.26, y=67.00, z=1838.24]
+[14Aug2025 02:46:44.527] [Server thread/DEBUG] [pointblank/]: 4527 handling client fire request
+[14Aug2025 02:46:44.528] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:46:44.528] [Server thread/DEBUG] [pointblank/]: 4528 - obtained hit result in 0ms
+[14Aug2025 02:46:44.528] [Server thread/DEBUG] [pointblank/]: 4528 obtained hit results
+[14Aug2025 02:46:44.528] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4fbd5493
+[14Aug2025 02:46:44.528] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.26, y=67.00, z=1838.24] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.26, y=67.00, z=1838.24]
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: 6743 handling client fire request
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: 6743 - obtained hit result in 0ms
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: 6743 obtained hit results
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b14a98d
+[14Aug2025 02:46:46.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.46, y=64.00, z=1830.53] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.46, y=64.00, z=1830.53]
+[14Aug2025 02:46:47.402] [Server thread/DEBUG] [pointblank/]: 7402 handling client fire request
+[14Aug2025 02:46:47.402] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:46:47.402] [Server thread/DEBUG] [pointblank/]: 7402 - obtained hit result in 0ms
+[14Aug2025 02:46:47.402] [Server thread/DEBUG] [pointblank/]: 7402 obtained hit results
+[14Aug2025 02:46:47.402] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5af28084
+[14Aug2025 02:46:47.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.59, y=64.00, z=1830.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-377.59, y=64.00, z=1830.72]
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: 8125 handling client fire request
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 3
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: 8125 - obtained hit result in 0ms
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: 8125 obtained hit results
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3a965bb
+[14Aug2025 02:46:48.125] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.56, y=63.94, z=1829.24] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.56, y=63.94, z=1829.24]
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: 8839 handling client fire request
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 2
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: 8839 - obtained hit result in 0ms
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: 8839 obtained hit results
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f269545
+[14Aug2025 02:46:48.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54]
+[14Aug2025 02:46:48.986] [Server thread/DEBUG] [pointblank/]: 8986 handling client fire request
+[14Aug2025 02:46:48.987] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 1
+[14Aug2025 02:46:48.987] [Server thread/DEBUG] [pointblank/]: 8987 - obtained hit result in 0ms
+[14Aug2025 02:46:48.987] [Server thread/DEBUG] [pointblank/]: 8987 obtained hit results
+[14Aug2025 02:46:48.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@642ab16d
+[14Aug2025 02:46:48.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54]
+[14Aug2025 02:46:49.071] [Server thread/DEBUG] [pointblank/]: 9071 handling client fire request
+[14Aug2025 02:46:49.071] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 0
+[14Aug2025 02:46:49.071] [Server thread/DEBUG] [pointblank/]: 9071 - obtained hit result in 0ms
+[14Aug2025 02:46:49.071] [Server thread/DEBUG] [pointblank/]: 9071 obtained hit results
+[14Aug2025 02:46:49.071] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@fcd9c10
+[14Aug2025 02:46:49.072] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-378.17, y=63.00, z=1829.54]
+[14Aug2025 02:46:50.059] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:46:59.753] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 8
+[14Aug2025 02:47:05.300] [Server thread/DEBUG] [pointblank/]: 25300 handling client fire request
+[14Aug2025 02:47:05.301] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:47:05.301] [Server thread/DEBUG] [pointblank/]: 25301 - obtained hit result in 0ms
+[14Aug2025 02:47:05.301] [Server thread/DEBUG] [pointblank/]: 25301 obtained hit results
+[14Aug2025 02:47:05.301] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67320ba1
+[14Aug2025 02:47:05.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.75, y=64.00, z=1834.20] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-370.75, y=64.00, z=1834.20]
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: 30523 handling client fire request
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: 30523 - obtained hit result in 0ms
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: 30523 obtained hit results
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ee6299c
+[14Aug2025 02:47:10.523] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-390.19, y=67.00, z=1839.34] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-390.19, y=67.00, z=1839.34]
+[14Aug2025 02:47:10.777] [Server thread/DEBUG] [pointblank/]: 30777 handling client fire request
+[14Aug2025 02:47:10.778] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:47:10.778] [Server thread/DEBUG] [pointblank/]: 30778 - obtained hit result in 0ms
+[14Aug2025 02:47:10.778] [Server thread/DEBUG] [pointblank/]: 30778 obtained hit results
+[14Aug2025 02:47:10.778] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@aaaea7b
+[14Aug2025 02:47:10.778] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-389.51, y=67.00, z=1839.01] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-389.51, y=67.00, z=1839.01]
+[14Aug2025 02:47:10.927] [Server thread/DEBUG] [pointblank/]: 30927 handling client fire request
+[14Aug2025 02:47:10.927] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:47:10.927] [Server thread/DEBUG] [pointblank/]: 30927 - obtained hit result in 0ms
+[14Aug2025 02:47:10.927] [Server thread/DEBUG] [pointblank/]: 30927 obtained hit results
+[14Aug2025 02:47:10.927] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46c0ff2
+[14Aug2025 02:47:10.928] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-389.03, y=67.00, z=1839.13] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-389.03, y=67.00, z=1839.13]
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: 31308 handling client fire request
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 3
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: 31308 - obtained hit result in 0ms
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: 31308 obtained hit results
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3909d7d3
+[14Aug2025 02:47:11.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.30, y=67.00, z=1838.65] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.30, y=67.00, z=1838.65]
+[14Aug2025 02:47:12.126] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:47:14.350] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:47:21.547] [Server thread/DEBUG] [pointblank/]: 41547 handling client fire request
+[14Aug2025 02:47:21.547] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:47:21.547] [Server thread/DEBUG] [pointblank/]: 41547 - obtained hit result in 0ms
+[14Aug2025 02:47:21.547] [Server thread/DEBUG] [pointblank/]: 41547 obtained hit results
+[14Aug2025 02:47:21.547] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ffedc19
+[14Aug2025 02:47:21.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.10, y=69.28, z=1854.77] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.10, y=69.28, z=1854.77]
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: 41620 handling client fire request
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: 41620 - obtained hit result in 0ms
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: 41620 obtained hit results
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6fdffb37
+[14Aug2025 02:47:21.620] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-399.92, y=69.60, z=1854.47] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-399.92, y=69.60, z=1854.47]
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: 41981 handling client fire request
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: 41981 - obtained hit result in 0ms
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: 41981 obtained hit results
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@72e75b8d
+[14Aug2025 02:47:21.981] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-399.84, y=69.22, z=1854.15] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-399.84, y=69.22, z=1854.15]
+[14Aug2025 02:47:23.824] [Server thread/DEBUG] [pointblank/]: 43824 handling client fire request
+[14Aug2025 02:47:23.824] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:47:23.825] [Server thread/DEBUG] [pointblank/]: 43825 - obtained hit result in 0ms
+[14Aug2025 02:47:23.825] [Server thread/DEBUG] [pointblank/]: 43825 obtained hit results
+[14Aug2025 02:47:23.825] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a5e93b
+[14Aug2025 02:47:23.825] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67]
+[14Aug2025 02:47:23.827] [Server thread/DEBUG] [pointblank/]: 43827 handling client fire request
+[14Aug2025 02:47:23.827] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 3
+[14Aug2025 02:47:23.827] [Server thread/DEBUG] [pointblank/]: 43827 - obtained hit result in 0ms
+[14Aug2025 02:47:23.827] [Server thread/DEBUG] [pointblank/]: 43827 obtained hit results
+[14Aug2025 02:47:23.827] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bc79956
+[14Aug2025 02:47:23.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67]
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: 43978 handling client fire request
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 2
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: 43978 - obtained hit result in 0ms
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: 43978 obtained hit results
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d87c6c5
+[14Aug2025 02:47:23.978] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67]
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: 44121 handling client fire request
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 1
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: 44121 - obtained hit result in 0ms
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: 44121 obtained hit results
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@20038482
+[14Aug2025 02:47:24.121] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.17, y=69.00, z=1856.67]
+[14Aug2025 02:47:24.306] [Server thread/DEBUG] [pointblank/]: 44306 handling client fire request
+[14Aug2025 02:47:24.306] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 0
+[14Aug2025 02:47:24.307] [Server thread/DEBUG] [pointblank/]: 44307 - obtained hit result in 1ms
+[14Aug2025 02:47:24.307] [Server thread/DEBUG] [pointblank/]: 44307 obtained hit results
+[14Aug2025 02:47:24.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41553faa
+[14Aug2025 02:47:24.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.00, y=69.00, z=1856.28] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-402.00, y=69.00, z=1856.28]
+[14Aug2025 02:47:25.374] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:47:27.724] [Server thread/DEBUG] [pointblank/]: 47724 handling client fire request
+[14Aug2025 02:47:27.725] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:47:27.725] [Server thread/DEBUG] [pointblank/]: 47725 - obtained hit result in 0ms
+[14Aug2025 02:47:27.725] [Server thread/DEBUG] [pointblank/]: 47725 obtained hit results
+[14Aug2025 02:47:27.725] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19b62850
+[14Aug2025 02:47:27.725] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.70, y=62.00, z=1851.38] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.70, y=62.00, z=1851.38]
+[14Aug2025 02:47:27.936] [Server thread/DEBUG] [pointblank/]: 47936 handling client fire request
+[14Aug2025 02:47:27.936] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:47:27.936] [Server thread/DEBUG] [pointblank/]: 47936 - obtained hit result in 0ms
+[14Aug2025 02:47:27.937] [Server thread/DEBUG] [pointblank/]: 47937 obtained hit results
+[14Aug2025 02:47:27.937] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@cea7d2b
+[14Aug2025 02:47:27.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.70, y=62.00, z=1851.59] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.70, y=62.00, z=1851.59]
+[14Aug2025 02:47:39.186] [Server thread/DEBUG] [pointblank/]: 59186 handling client fire request
+[14Aug2025 02:47:39.187] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:47:39.187] [Server thread/DEBUG] [pointblank/]: 59187 - obtained hit result in 0ms
+[14Aug2025 02:47:39.187] [Server thread/DEBUG] [pointblank/]: 59187 obtained hit results
+[14Aug2025 02:47:39.187] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@53ccf39a
+[14Aug2025 02:47:39.187] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.48, z=1854.76] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.48, z=1854.76]
+[14Aug2025 02:47:39.309] [Server thread/DEBUG] [pointblank/]: 59309 handling client fire request
+[14Aug2025 02:47:39.309] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:47:39.309] [Server thread/DEBUG] [pointblank/]: 59309 - obtained hit result in 0ms
+[14Aug2025 02:47:39.309] [Server thread/DEBUG] [pointblank/]: 59309 obtained hit results
+[14Aug2025 02:47:39.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2aa34132
+[14Aug2025 02:47:39.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.41, z=1854.73] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.41, z=1854.73]
+[14Aug2025 02:47:39.579] [Server thread/DEBUG] [pointblank/]: 59579 handling client fire request
+[14Aug2025 02:47:39.580] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 3
+[14Aug2025 02:47:39.580] [Server thread/DEBUG] [pointblank/]: 59580 - obtained hit result in 0ms
+[14Aug2025 02:47:39.580] [Server thread/DEBUG] [pointblank/]: 59580 obtained hit results
+[14Aug2025 02:47:39.580] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7c50e121
+[14Aug2025 02:47:39.580] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.28, z=1854.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.28, z=1854.72]
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: 59773 handling client fire request
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 2
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: 59773 - obtained hit result in 0ms
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: 59773 obtained hit results
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@37306188
+[14Aug2025 02:47:39.773] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.21, z=1854.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-400.30, y=61.21, z=1854.72]
+[14Aug2025 02:47:49.924] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: 75935 handling client fire request
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: 75935 - obtained hit result in 0ms
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: 75935 obtained hit results
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@326c384d
+[14Aug2025 02:47:55.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72]
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: 76071 handling client fire request
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: 76071 - obtained hit result in 0ms
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: 76071 obtained hit results
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@262bf1b1
+[14Aug2025 02:47:56.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30]
+[14Aug2025 02:47:56.072] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=25.30, y=50.00, z=1326.40]
+[14Aug2025 02:47:57.524] [Server thread/DEBUG] [pointblank/]: 77524 handling client fire request
+[14Aug2025 02:47:57.524] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 5
+[14Aug2025 02:47:57.525] [Server thread/DEBUG] [pointblank/]: 77525 - obtained hit result in 0ms
+[14Aug2025 02:47:57.525] [Server thread/DEBUG] [pointblank/]: 77525 obtained hit results
+[14Aug2025 02:47:57.525] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@105bf147
+[14Aug2025 02:47:57.525] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30]
+[14Aug2025 02:47:57.525] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=25.38, y=47.00, z=1322.34]
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: 77802 handling client fire request
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: 77802 - obtained hit result in 0ms
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: 77802 obtained hit results
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ce537f1
+[14Aug2025 02:47:57.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72]
+[14Aug2025 02:47:58.529] [Server thread/DEBUG] [pointblank/]: 78529 handling client fire request
+[14Aug2025 02:47:58.529] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 4
+[14Aug2025 02:47:58.529] [Server thread/DEBUG] [pointblank/]: 78529 - obtained hit result in 0ms
+[14Aug2025 02:47:58.529] [Server thread/DEBUG] [pointblank/]: 78529 obtained hit results
+[14Aug2025 02:47:58.529] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2569c8f2
+[14Aug2025 02:47:58.531] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30]
+[14Aug2025 02:47:58.531] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.30, y=45.00, z=1331.30] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=25.38, y=47.00, z=1322.26]
+[14Aug2025 02:47:58.772] [Server thread/DEBUG] [pointblank/]: 78772 handling client fire request
+[14Aug2025 02:47:58.772] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:47:58.772] [Server thread/DEBUG] [pointblank/]: 78772 - obtained hit result in 0ms
+[14Aug2025 02:47:58.772] [Server thread/DEBUG] [pointblank/]: 78772 obtained hit results
+[14Aug2025 02:47:58.772] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6adee1a
+[14Aug2025 02:47:58.773] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-388.20, y=63.00, z=1819.72]
+[14Aug2025 02:47:59.802] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:48:02.849] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:48:03.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/52491, l='ServerLevel[ey]', x=23.50, y=45.50, z=1321.50]
+[14Aug2025 02:48:03.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/52492, l='ServerLevel[ey]', x=23.50, y=45.50, z=1322.50]
+[14Aug2025 02:48:03.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/52493, l='ServerLevel[ey]', x=25.50, y=46.50, z=1321.50]
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: 83872 handling client fire request
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: 83872 - obtained hit result in 0ms
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: 83872 obtained hit results
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@265d9e3b
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.70, y=50.00, z=1326.21] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.70, y=50.00, z=1326.21]
+[14Aug2025 02:48:03.872] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=25.70, y=50.00, z=1326.21] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=23.97, y=49.07, z=1325.68]
+[14Aug2025 02:48:04.449] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 8
+[14Aug2025 02:48:05.417] [Server thread/DEBUG] [pointblank/]: 85417 handling client fire request
+[14Aug2025 02:48:05.417] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 7
+[14Aug2025 02:48:05.418] [Server thread/DEBUG] [pointblank/]: 85418 - obtained hit result in 0ms
+[14Aug2025 02:48:05.418] [Server thread/DEBUG] [pointblank/]: 85418 obtained hit results
+[14Aug2025 02:48:05.418] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50428e8a
+[14Aug2025 02:48:05.418] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-383.94, y=61.44, z=1810.75] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-383.94, y=61.44, z=1810.75]
+[14Aug2025 02:48:06.070] [Server thread/DEBUG] [pointblank/]: 86070 handling client fire request
+[14Aug2025 02:48:06.070] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 6
+[14Aug2025 02:48:06.070] [Server thread/DEBUG] [pointblank/]: 86070 - obtained hit result in 0ms
+[14Aug2025 02:48:06.070] [Server thread/DEBUG] [pointblank/]: 86070 obtained hit results
+[14Aug2025 02:48:06.070] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10798793
+[14Aug2025 02:48:06.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-383.94, y=61.11, z=1810.75] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-383.94, y=61.11, z=1810.75]
+[14Aug2025 02:48:14.349] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 02:48:35.426] [Server thread/DEBUG] [pointblank/]: 15426 handling client fire request
+[14Aug2025 02:48:35.426] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 5
+[14Aug2025 02:48:35.426] [Server thread/DEBUG] [pointblank/]: 15426 - obtained hit result in 0ms
+[14Aug2025 02:48:35.426] [Server thread/DEBUG] [pointblank/]: 15426 obtained hit results
+[14Aug2025 02:48:35.426] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a7853a2
+[14Aug2025 02:48:35.427] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-366.70, y=68.00, z=1751.30] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-366.70, y=68.00, z=1751.30]
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: 15677 handling client fire request
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 4
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: 15677 - obtained hit result in 0ms
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: 15677 obtained hit results
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@8c38ec7
+[14Aug2025 02:48:35.677] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-366.70, y=68.00, z=1751.30] sends hit scan notification to ServerPlayer['Ezrealdelcolo'/18178, l='ServerLevel[ey]', x=-366.70, y=68.00, z=1751.30]
+[14Aug2025 02:48:42.956] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579234473 to 8
+[14Aug2025 02:48:49.975] [Server thread/DEBUG] [pointblank/]: 29975 handling client fire request
+[14Aug2025 02:48:49.975] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 7
+[14Aug2025 02:48:49.976] [Server thread/DEBUG] [pointblank/]: 29976 - obtained hit result in 1ms
+[14Aug2025 02:48:49.976] [Server thread/DEBUG] [pointblank/]: 29976 obtained hit results
+[14Aug2025 02:48:49.976] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e090b92
+[14Aug2025 02:48:49.977] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.13, y=70.00, z=1308.91] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.13, y=70.00, z=1308.91]
+[14Aug2025 02:48:49.977] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.13, y=70.00, z=1308.91] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.81, y=53.74, z=1317.30]
+[14Aug2025 02:48:51.023] [Server thread/DEBUG] [pointblank/]: 31023 handling client fire request
+[14Aug2025 02:48:51.024] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 94150124 to 6
+[14Aug2025 02:48:51.024] [Server thread/DEBUG] [pointblank/]: 31024 - obtained hit result in 0ms
+[14Aug2025 02:48:51.024] [Server thread/DEBUG] [pointblank/]: 31024 obtained hit results
+[14Aug2025 02:48:51.024] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@405f2b76
+[14Aug2025 02:48:51.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.14, y=71.00, z=1307.41] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.14, y=71.00, z=1307.41]
+[14Aug2025 02:48:51.025] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=33.14, y=71.00, z=1307.41] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=27.44, y=55.00, z=1316.28]
+[14Aug2025 02:49:02.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: 43409 handling client fire request
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 401451313 to 7
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: 43409 - obtained hit result in 0ms
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: 43409 obtained hit results
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f7ab3bd
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.00, y=71.00, z=1316.69] sends hit scan notification to ServerPlayer['Rajmaninov'/1867, l='ServerLevel[ey]', x=17.13, y=71.75, z=1314.61]
+[14Aug2025 02:49:03.409] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.00, y=71.00, z=1316.69] sends hit scan notification to ServerPlayer['Tont0ni'/15980, l='ServerLevel[ey]', x=26.00, y=71.00, z=1316.69]
+[14Aug2025 02:49:14.336] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:50:14.429] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:50:28.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[14Aug2025 02:50:46.595] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[14Aug2025 02:51:14.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[14Aug2025 02:51:15.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[14Aug2025 02:51:15.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[14Aug2025 02:51:15.796] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:51:17.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[14Aug2025 02:51:25.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[14Aug2025 02:51:25.489] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[14Aug2025 02:51:25.493] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[14Aug2025 02:51:25.495] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[14Aug2025 02:51:25.496] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[14Aug2025 02:51:25.523] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[14Aug2025 02:51:25.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[14Aug2025 02:51:25.527] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[14Aug2025 02:51:25.528] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[14Aug2025 02:51:25.528] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[14Aug2025 02:51:25.529] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[14Aug2025 02:51:25.529] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[14Aug2025 02:51:25.530] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[14Aug2025 02:51:25.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[14Aug2025 02:51:25.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[14Aug2025 02:51:25.532] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[14Aug2025 02:51:25.533] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[14Aug2025 02:51:25.534] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[14Aug2025 02:51:25.535] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[14Aug2025 02:51:25.536] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[14Aug2025 02:51:25.536] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[14Aug2025 02:51:25.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[14Aug2025 02:51:25.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[14Aug2025 02:51:25.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[14Aug2025 02:51:25.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[14Aug2025 02:51:25.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[14Aug2025 02:51:25.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[14Aug2025 02:51:25.540] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[14Aug2025 02:51:25.540] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[14Aug2025 02:51:25.542] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[14Aug2025 02:51:25.542] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[14Aug2025 02:51:25.543] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[14Aug2025 02:51:25.544] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[14Aug2025 02:51:25.544] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[14Aug2025 02:51:25.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[14Aug2025 02:51:25.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[14Aug2025 02:51:25.546] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[14Aug2025 02:51:25.547] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[14Aug2025 02:51:25.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[14Aug2025 02:51:25.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[14Aug2025 02:51:25.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[14Aug2025 02:51:25.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[14Aug2025 02:51:25.550] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[14Aug2025 02:51:25.551] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[14Aug2025 02:51:25.551] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[14Aug2025 02:51:25.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[14Aug2025 02:51:25.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[14Aug2025 02:51:25.553] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[14Aug2025 02:51:25.553] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[14Aug2025 02:51:25.554] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[14Aug2025 02:51:25.554] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[14Aug2025 02:51:25.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[14Aug2025 02:51:25.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[14Aug2025 02:51:25.556] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[14Aug2025 02:51:25.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[14Aug2025 02:51:25.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[14Aug2025 02:51:25.558] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[14Aug2025 02:51:25.559] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[14Aug2025 02:51:25.559] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[14Aug2025 02:51:25.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[14Aug2025 02:51:25.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[14Aug2025 02:51:25.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[14Aug2025 02:51:25.561] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[14Aug2025 02:51:25.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[14Aug2025 02:51:25.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[14Aug2025 02:51:25.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[14Aug2025 02:51:25.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[14Aug2025 02:51:25.564] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[14Aug2025 02:51:25.564] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[14Aug2025 02:51:25.565] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[14Aug2025 02:51:25.566] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[14Aug2025 02:51:25.567] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[14Aug2025 02:51:25.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[14Aug2025 02:51:25.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[14Aug2025 02:51:25.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[14Aug2025 02:51:25.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[14Aug2025 02:51:25.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[14Aug2025 02:51:25.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[14Aug2025 02:51:25.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[14Aug2025 02:51:25.571] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[14Aug2025 02:51:25.571] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[14Aug2025 02:51:25.571] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[14Aug2025 02:51:25.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[14Aug2025 02:51:25.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[14Aug2025 02:51:25.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[14Aug2025 02:51:25.573] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[14Aug2025 02:51:25.573] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[14Aug2025 02:51:25.573] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[14Aug2025 02:51:25.574] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[14Aug2025 02:51:25.574] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[14Aug2025 02:51:25.575] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[14Aug2025 02:51:25.575] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[14Aug2025 02:51:25.575] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[14Aug2025 02:51:25.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[14Aug2025 02:51:25.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[14Aug2025 02:51:25.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[14Aug2025 02:51:25.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[14Aug2025 02:51:25.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[14Aug2025 02:51:25.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[14Aug2025 02:51:25.578] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[14Aug2025 02:51:47.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[14Aug2025 02:51:54.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14Aug2025 02:52:18.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[14Aug2025 02:52:21.204] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:52:35.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[14Aug2025 02:52:57.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=68, z=1672} BlockPos{x=-376, y=66, z=1672}
+[14Aug2025 02:53:07.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-369, y=68, z=1642} BlockPos{x=-369, y=66, z=1641}
+[14Aug2025 02:53:07.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of natures_spirit:village/wisteria/houses/wisteria_temple_2
+[14Aug2025 02:53:07.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/straight
+[14Aug2025 02:53:07.736] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/shepherd
+[14Aug2025 02:53:07.766] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/farm
+[14Aug2025 02:53:07.802] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/mason
+[14Aug2025 02:53:07.834] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/med_2
+[14Aug2025 02:53:07.858] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_4
+[14Aug2025 02:53:07.859] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/butcher
+[14Aug2025 02:53:07.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/leatherworker
+[14Aug2025 02:53:07.863] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/big_2
+[14Aug2025 02:53:07.865] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/library
+[14Aug2025 02:53:07.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/big_1
+[14Aug2025 02:53:07.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/pen
+[14Aug2025 02:53:07.868] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_2
+[14Aug2025 02:53:07.869] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/cartography
+[14Aug2025 02:53:07.871] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/med_1
+[14Aug2025 02:53:07.872] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_1
+[14Aug2025 02:53:07.873] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/chemist
+[14Aug2025 02:53:07.874] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/smith
+[14Aug2025 02:53:07.875] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/med_3
+[14Aug2025 02:53:07.876] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/fisherman
+[14Aug2025 02:53:07.878] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_3
+[14Aug2025 02:53:08.034] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_2
+[14Aug2025 02:53:08.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_2
+[14Aug2025 02:53:08.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_1
+[14Aug2025 02:53:08.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_3
+[14Aug2025 02:53:08.130] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_6
+[14Aug2025 02:53:08.130] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_1
+[14Aug2025 02:53:08.130] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_2
+[14Aug2025 02:53:08.130] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_3
+[14Aug2025 02:53:08.131] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_4
+[14Aug2025 02:53:08.131] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_5
+[14Aug2025 02:53:08.155] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_2
+[14Aug2025 02:53:08.156] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_3
+[14Aug2025 02:53:08.159] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_1
+[14Aug2025 02:53:08.163] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/inter
+[14Aug2025 02:53:08.164] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_1
+[14Aug2025 02:53:12.341] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Aug2025 02:53:12.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[14Aug2025 02:53:20.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -6.804714047464785,3.025602215935166,-7.403182208365251
+[14Aug2025 02:53:20.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -7.415064504299352,3.2613282785421376,-7.926154173018631
+[14Aug2025 02:53:20.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -8.027732517938176,3.494667019349606,-8.439623171146877
+[14Aug2025 02:53:20.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -8.642145221948823,3.725649141533907,-8.944424348847406
+[14Aug2025 02:53:20.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -9.257800959130606,3.954302423769832,-9.4413307812124
+[14Aug2025 02:53:20.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -9.874261874151472,4.1806525989227055,-9.931057554002336
+[14Aug2025 02:53:20.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -10.49114672802304,4.404724244246438,-10.414265445593855
+[14Aug2025 02:53:20.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -11.108124560174616,4.626542015271269,-10.891565457118759
+[14Aug2025 02:53:20.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -11.724909026439661,4.846131872219814,-11.363522809021106
+[14Aug2025 02:53:20.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -12.34125339601789,5.063522386674833,-11.830660834107675
+[14Aug2025 02:53:20.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -12.956946068074842,5.278745989657963,-12.293464747323469
+[14Aug2025 02:53:20.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -13.571805754174733,5.491839808330525,-12.752384662142731
+[14Aug2025 02:53:20.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -14.185678575966051,5.7028468358367945,-13.207838682612419
+[14Aug2025 02:53:20.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -14.798434733518462,5.911816653297777,-13.660215260922769
+[14Aug2025 02:53:20.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -15.409965524010147,6.118805954352041,-14.109875262485275
+[14Aug2025 02:53:20.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -16.020180972426147,6.323878997848595,-14.557153811013222
+[14Aug2025 02:53:20.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -16.62900787346061,6.5271078694263025,-15.002361742952644
+[14Aug2025 02:53:20.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -17.23638751773626,6.728572363488851,-15.445786727681934
+[14Aug2025 02:53:20.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -17.842274213919154,6.928359862102141,-15.887694201570866
+[14Aug2025 02:53:20.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -18.4466341671058,7.126565084838532,-16.328328275471904
+[14Aug2025 02:53:20.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -19.04944376796948,7.323289366654819,-16.767911962826247
+[14Aug2025 02:53:20.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov moved too quickly! -6.678095138815991,-1.0754440651894868,-7.512739432650733
+[14Aug2025 02:53:20.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -19.65068897401457,7.518640166701857,-17.206648009829905
+[14Aug2025 02:53:20.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -20.25036394364372,7.712730062217247,-17.64471885511057
+[14Aug2025 02:53:20.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -20.84847037500495,7.905675855666516,-18.082287025801406
+[14Aug2025 02:53:20.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -21.445016662815505,8.097597466400245,-18.51949526638873
+[14Aug2025 02:53:20.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -22.040017476890768,8.288616937375778,-18.956467186319287
+[14Aug2025 02:53:20.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -22.63349313405439,8.478857189688469,-19.393307228600634
+[14Aug2025 02:53:20.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
+[14Aug2025 02:53:20.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -17.028135281667403,5.880985844501126,-12.960294152150254
+[14Aug2025 02:53:20.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -17.618640553902168,6.070033525943529,-13.397109121541462
+[14Aug2025 02:53:20.728] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 31 messages to dispatch.
+[14Aug2025 02:53:20.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[14Aug2025 02:53:20.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -18.207709169207476,6.258663439360419,-13.833994755549611
+[14Aug2025 02:53:20.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -18.79537838687682,6.446989666203862,-14.270983538475548
+[14Aug2025 02:53:20.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -19.381688581007808,6.635121108504336,-14.708091401572574
+[14Aug2025 02:53:20.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -19.96668264051101,6.8231604188580235,-15.14531876850765
+[14Aug2025 02:53:20.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -20.550405776764052,7.011203086091555,-15.582651525562824
+[14Aug2025 02:53:20.884] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[14Aug2025 02:53:20.925] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[14Aug2025 02:53:20.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[14Aug2025 02:53:20.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[14Aug2025 02:53:21.016] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[14Aug2025 02:53:21.045] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[14Aug2025 02:53:21.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[14Aug2025 02:53:21.121] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[14Aug2025 02:53:21.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry sekclib:capability_sync' to 'fml:handshake' sequence 9
+[14Aug2025 02:53:21.176] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[14Aug2025 02:53:21.204] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[14Aug2025 02:53:21.234] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry legendarysurvivaloverhaul:dynamic_temperature_modifiers' to 'fml:handshake' sequence 12
+[14Aug2025 02:53:21.264] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[14Aug2025 02:53:21.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[14Aug2025 02:53:21.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[14Aug2025 02:53:21.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[14Aug2025 02:53:21.445] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[14Aug2025 02:53:21.502] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[14Aug2025 02:53:21.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry legendarysurvivaloverhaul:item_attribute_temperature_modifiers' to 'fml:handshake' sequence 19
+[14Aug2025 02:53:21.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry legendarysurvivaloverhaul:temperature_modifiers' to 'fml:handshake' sequence 20
+[14Aug2025 02:53:21.701] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[14Aug2025 02:53:21.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[14Aug2025 02:53:21.785] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 23
+[14Aug2025 02:53:21.845] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[14Aug2025 02:53:21.880] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 25
+[14Aug2025 02:53:21.934] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 26
+[14Aug2025 02:53:22.025] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toms_storage-server.toml' to 'fml:handshake' sequence 27
+[14Aug2025 02:53:22.090] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 28
+[14Aug2025 02:53:22.137] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 29
+[14Aug2025 02:53:22.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[14Aug2025 02:53:22.777] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42c812fe[id=<null>,name=xingandomodelos,properties={},legacy=false] (/100.82.22.119:50379) lost connection: Disconnected
+[14Aug2025 02:53:24.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.2548355968885687,2.4296703385301157,-10.024876876400413
+[14Aug2025 02:53:24.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.3028933367349111,2.5933388890020694,-10.750720633421906
+[14Aug2025 02:53:24.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.348800275063951,2.7561545905325318,-11.477771422024034
+[14Aug2025 02:53:24.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.3930181860580433,2.9182185617333403,-12.206003235196931
+[14Aug2025 02:53:24.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.4359630551224996,3.079635002717339,-12.935383421173356
+[14Aug2025 02:53:27.555] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 02:53:33.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 1.419343230818697,-3.862912348763402,-9.460617023428085
+[14Aug2025 02:53:52.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 02:54:15.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-376, y=68, z=1598} BlockPos{x=-377, y=66, z=1598}
+[14Aug2025 02:54:15.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-376, y=68, z=1598} BlockPos{x=-377, y=66, z=1598}
+[14Aug2025 02:54:15.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=68, z=1599} BlockPos{x=-377, y=66, z=1598}
+[14Aug2025 02:54:15.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=68, z=1599} BlockPos{x=-377, y=66, z=1598}
+[14Aug2025 02:54:15.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=68, z=1599} BlockPos{x=-377, y=66, z=1598}
+[14Aug2025 02:54:16.808] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-15, 31], pos: MutableBlockPos{x=-232, y=-10, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[14Aug2025 02:54:16.808] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-15, 31], pos: MutableBlockPos{x=-232, y=-9, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[14Aug2025 02:54:27.620] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 14 mobs in level: minecraft:overworld
+[14Aug2025 02:54:43.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[14Aug2025 02:54:44.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[14Aug2025 02:54:48.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[14Aug2025 02:54:48.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[14Aug2025 02:55:28.641] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 02:56:02.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[14Aug2025 02:56:03.739] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[14Aug2025 02:56:03.746] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_3
+[14Aug2025 02:56:03.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/med_1
+[14Aug2025 02:56:03.752] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_1
+[14Aug2025 02:56:03.754] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_2
+[14Aug2025 02:56:03.756] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/cartographer
+[14Aug2025 02:56:03.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/pen
+[14Aug2025 02:56:03.759] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/farm
+[14Aug2025 02:56:03.784] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[14Aug2025 02:56:03.784] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[14Aug2025 02:56:24.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind

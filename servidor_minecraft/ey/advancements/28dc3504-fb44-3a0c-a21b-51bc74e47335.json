@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "natures_spirit:blooming_sugi_forest": "2025-08-14 02:49:24 +0000",
       "minecraft:dark_forest": "2025-08-13 04:29:12 +0000",
       "natures_spirit:oak_savanna": "2025-08-13 04:23:34 +0000",
       "natures_spirit:tropical_shores": "2025-08-13 04:06:50 +0000",
@@ -23,9 +24,11 @@
       "natures_spirit:wooded_drylands": "2025-08-11 05:46:25 +0000",
       "minecraft:jungle": "2025-08-11 04:29:12 +0000",
       "natures_spirit:coniferous_covert": "2025-08-13 04:55:10 +0000",
+      "minecraft:warm_ocean": "2025-08-14 02:33:52 +0000",
       "natures_spirit:maple_woodlands": "2025-08-13 04:56:41 +0000",
       "natures_spirit:xeric_plains": "2025-08-11 05:48:01 +0000",
       "minecraft:frozen_peaks": "2025-08-13 05:13:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-14 02:51:09 +0000",
       "minecraft:plains": "2025-08-11 04:27:13 +0000",
       "natures_spirit:golden_wilds": "2025-08-13 05:12:52 +0000",
       "minecraft:snowy_slopes": "2025-08-13 05:13:00 +0000",
@@ -37,9 +40,11 @@
       "natures_spirit:chaparral": "2025-08-11 04:32:34 +0000",
       "natures_spirit:aspen_forest": "2025-08-13 04:55:27 +0000",
       "minecraft:forest": "2025-08-11 04:11:09 +0000",
+      "natures_spirit:drylands": "2025-08-14 02:33:50 +0000",
       "minecraft:windswept_forest": "2025-08-13 04:48:34 +0000",
       "minecraft:windswept_savanna": "2025-08-11 04:15:58 +0000",
-      "minecraft:meadow": "2025-08-13 04:56:49 +0000"
+      "minecraft:meadow": "2025-08-13 04:56:49 +0000",
+      "minecraft:savanna": "2025-08-14 02:36:53 +0000"
     },
     "done": false
   },
@@ -1335,7 +1340,8 @@
       "minecraft:creeper": "2025-08-13 03:03:58 +0000",
       "minecraft:witch": "2025-08-13 04:32:32 +0000",
       "minecraft:husk": "2025-08-13 02:52:42 +0000",
-      "minecraft:zombie": "2025-08-13 03:00:06 +0000"
+      "minecraft:zombie": "2025-08-13 03:00:06 +0000",
+      "minecraft:zombie_villager": "2025-08-14 02:42:29 +0000"
     },
     "done": false
   },
@@ -2528,9 +2534,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
     },
     "done": true
   },
@@ -2540,9 +2558,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-14 02:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
     },
     "done": true
   },
@@ -2552,15 +2588,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
     },
     "done": true
   },
@@ -2576,9 +2636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-14 02:35:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
     },
     "done": true
   },
@@ -2603,6 +2675,12 @@
   "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
     "criteria": {
       "has_leather": "2025-08-14 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-14 02:47:16 +0000"
     },
     "done": true
   },

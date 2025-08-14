@@ -373,6 +373,7 @@
       "anemone": "2025-08-11 04:35:33 +0000",
       "bleeding_heart": "2025-08-13 02:24:55 +0000",
       "black_iris": "2025-08-13 04:59:44 +0000",
+      "carnation": "2025-08-14 02:33:04 +0000",
       "dandelion": "2025-08-13 01:04:13 +0000",
       "ruby_blossoms": "2025-08-13 02:24:53 +0000",
       "hibiscus": "2025-08-11 05:28:58 +0000",
@@ -673,6 +674,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-14 02:48:51 +0000",
       "minecraft:skeleton": "2025-08-11 05:22:25 +0000",
       "minecraft:spider": "2025-08-11 05:22:36 +0000",
       "minecraft:creeper": "2025-08-11 04:36:26 +0000",
@@ -3299,6 +3301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-14 02:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 02:25:38 +0000"
@@ -3308,6 +3316,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 02:25:38 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/red_dye_from_carnation": {
+    "criteria": {
+      "has_carnation": "2025-08-14 02:33:04 +0000"
     },
     "done": true
   },

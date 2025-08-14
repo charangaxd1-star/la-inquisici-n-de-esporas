@@ -746,7 +746,8 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "grass": "2025-08-13 03:37:14 +0000",
-      "dirt": "2025-08-13 02:00:33 +0000"
+      "dirt": "2025-08-13 02:00:33 +0000",
+      "loam": "2025-08-14 02:47:42 +0000"
     },
     "done": false
   },
@@ -1124,7 +1125,8 @@
   },
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
-      "gardenia": "2025-08-13 02:14:07 +0000"
+      "gardenia": "2025-08-13 02:14:07 +0000",
+      "anemone": "2025-08-14 02:37:26 +0000"
     },
     "done": false
   },
@@ -1417,9 +1419,13 @@
       "minecraft:vindicator": "2025-08-13 04:50:59 +0000",
       "minecraft:spider": "2025-08-13 03:41:25 +0000",
       "minecraft:creeper": "2025-08-13 02:51:47 +0000",
+      "minecraft:evoker": "2025-08-14 02:35:10 +0000",
       "minecraft:witch": "2025-08-13 04:51:17 +0000",
       "minecraft:husk": "2025-08-13 04:19:50 +0000",
-      "minecraft:zombie": "2025-08-13 02:52:42 +0000"
+      "minecraft:enderman": "2025-08-14 02:47:39 +0000",
+      "minecraft:vex": "2025-08-14 02:35:11 +0000",
+      "minecraft:zombie": "2025-08-13 02:52:42 +0000",
+      "minecraft:zombie_villager": "2025-08-14 02:34:37 +0000"
     },
     "done": false
   },
@@ -2512,6 +2518,168 @@
   "spore:specter": {
     "criteria": {
       "hurt_by_infected": "2025-08-14 02:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-14 02:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-14 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-08-14 02:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_tiles": {
+    "criteria": {
+      "has_copper_block": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/magenta_dye_from_anemone": {
+    "criteria": {
+      "has_anemone": "2025-08-14 02:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
     },
     "done": true
   },
