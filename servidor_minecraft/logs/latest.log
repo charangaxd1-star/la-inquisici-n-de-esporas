@@ -1695,3 +1695,187 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/185868, l='ServerLevel[ey]', x=-1174.50, y=64.50, z=1588.50]
 [14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/185869, l='ServerLevel[ey]', x=-1173.50, y=65.50, z=1588.50]
 [14Aug2025 04:57:21.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/185870, l='ServerLevel[ey]', x=-1174.50, y=65.50, z=1587.50]
+[14Aug2025 04:58:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was slain by Rajmaninov
+[14Aug2025 04:59:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! 7.5819849317354056,0.5800000131130219,6.934075739861555
+[14Aug2025 04:59:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved too quickly! -5.221751660832979,0.0,8.557257952366172
+[14Aug2025 04:59:07.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4441ms or 88 ticks behind
+[14Aug2025 04:59:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zz
+[14Aug2025 04:59:10.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 04:59:10.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 04:59:19.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58084] logged in with entity id 187062 at (-1523.736470267543, 64.0, 1608.089193362391)
+[14Aug2025 04:59:19.577] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 04:59:19.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:02:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> -1440 1561
+[14Aug2025 05:03:50.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:03:50.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:04:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b1798e[id=<null>,name=Ezrealdelcolo,properties={},legacy=false] (/100.127.29.127:58199) lost connection: Disconnected
+[14Aug2025 05:04:12.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov moved too quickly! -0.9421661278925058,0.0,-10.164831847610003
+[14Aug2025 05:04:12.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4647ms or 92 ticks behind
+[14Aug2025 05:04:13.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58227] logged in with entity id 189320 at (-1534.0553093851083, 63.0, 1636.6671109690935)
+[14Aug2025 05:04:13.834] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:04:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:05:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [Hot Stuff]
+[14Aug2025 05:05:21.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! -0.2351101630258654,0.7531999805212024,-10.012057779884344
+[14Aug2025 05:05:29.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Timed out
+[14Aug2025 05:05:29.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:05:50.261] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7527ad81[id=<null>,name=Ezrealdelcolo,properties={},legacy=false] (/100.127.29.127:58661) lost connection: Disconnected
+[14Aug2025 05:05:54.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58682] logged in with entity id 189956 at (-1534.1669981287528, 63.41999998688698, 1626.9833693252294)
+[14Aug2025 05:05:54.620] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:05:54.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:06:05.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! -6.747335219638217,0.3800236743955381,-7.851243929518205
+[14Aug2025 05:06:23.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:06:23.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:06:59.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58778] logged in with entity id 190229 at (-1550.950745234023, 64.25220334025373, 1601.6296252484294)
+[14Aug2025 05:06:59.426] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:06:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:07:30.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 05:09:17.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5316ms or 106 ticks behind
+[14Aug2025 05:09:17.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! -9.208455826601949,-1.2579991035152815,3.832579208141624
+[14Aug2025 05:10:36.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo fell from a high place
+[14Aug2025 05:10:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> ZZZ
+[14Aug2025 05:11:00.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 05:11:13.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> dujerman
+[14Aug2025 05:11:26.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:11:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:11:30.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> z
+[14Aug2025 05:11:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Kicked Tont0ni: Kicked by an operator]
+[14Aug2025 05:11:37.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Kicked by an operator
+[14Aug2025 05:11:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[14Aug2025 05:11:39.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58825] logged in with entity id 193698 at (-1585.1353183114293, 63.0, 1554.9748846751957)
+[14Aug2025 05:11:39.171] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:11:39.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:11:48.558] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 05:11:49.165] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Snow'/193923, l='ServerLevel[ey]', x=-1579.50, y=63.50, z=1551.50]
+[14Aug2025 05:11:49.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/193924, l='ServerLevel[ey]', x=-1580.50, y=62.50, z=1551.50]
+[14Aug2025 05:11:49.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/193925, l='ServerLevel[ey]', x=-1580.50, y=61.50, z=1550.50]
+[14Aug2025 05:11:49.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/193926, l='ServerLevel[ey]', x=-1578.50, y=62.50, z=1550.50]
+[14Aug2025 05:11:49.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/193927, l='ServerLevel[ey]', x=-1580.50, y=62.50, z=1549.50]
+[14Aug2025 05:11:49.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Snow'/193928, l='ServerLevel[ey]', x=-1579.50, y=63.50, z=1549.50]
+[14Aug2025 05:11:58.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo was blown up by Creeper
+[14Aug2025 05:12:16.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/194310, l='ServerLevel[ey]', x=-1579.50, y=58.50, z=1549.50]
+[14Aug2025 05:12:16.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/194311, l='ServerLevel[ey]', x=-1579.50, y=58.50, z=1550.50]
+[14Aug2025 05:12:16.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/194312, l='ServerLevel[ey]', x=-1578.50, y=58.50, z=1549.50]
+[14Aug2025 05:12:16.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/194313, l='ServerLevel[ey]', x=-1578.50, y=58.50, z=1550.50]
+[14Aug2025 05:12:16.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Stone'/194314, l='ServerLevel[ey]', x=-1578.50, y=57.50, z=1549.50]
+[14Aug2025 05:12:35.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 05:12:41.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:59528] logged in with entity id 194842 at (-1522.7947420177832, 63.0, 1616.7352681872842)
+[14Aug2025 05:12:41.045] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[14Aug2025 05:12:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[14Aug2025 05:12:48.648] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 05:13:48.574] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 05:14:23.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5850ms or 117 ticks behind
+[14Aug2025 05:14:54.441] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 05:15:20.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1389, y=67, z=1476} BlockPos{x=-1388, y=65, z=1478}
+[14Aug2025 05:15:20.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1389, y=67, z=1476} BlockPos{x=-1388, y=65, z=1478}
+[14Aug2025 05:15:24.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1374, y=67, z=1483} BlockPos{x=-1373, y=65, z=1482}
+[14Aug2025 05:15:54.424] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 05:16:17.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni was slain by Rajmaninov
+[14Aug2025 05:16:54.451] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 11 mobs in level: minecraft:overworld
+[14Aug2025 05:16:59.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 05:17:03.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was slain by Rajmaninov
+[14Aug2025 05:17:54.520] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 05:18:54.427] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 05:19:29.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! 9.832120838339051,0.0,-2.338079907939118
+[14Aug2025 05:19:29.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6165ms or 123 ticks behind
+[14Aug2025 05:20:00.583] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 05:21:00.562] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 05:21:40.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:21:40.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:22:00.562] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 05:23:00.635] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 05:24:00.554] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[14Aug2025 05:24:35.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved too quickly! 0.24919104130094638,0.07840000152587834,10.203918572648263
+[14Aug2025 05:24:35.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6399ms or 127 ticks behind
+[14Aug2025 05:24:36.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58960] logged in with entity id 199723 at (-1582.0178833234004, 72.0, 1562.6844448554978)
+[14Aug2025 05:24:36.485] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:24:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:24:39.573] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Fir Planks'/199867, l='ServerLevel[ey]', x=-1519.50, y=67.50, z=1609.50]
+[14Aug2025 05:24:39.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Fir Planks'/199868, l='ServerLevel[ey]', x=-1518.50, y=67.50, z=1607.50]
+[14Aug2025 05:24:39.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Fir Planks'/199869, l='ServerLevel[ey]', x=-1517.50, y=66.50, z=1609.50]
+[14Aug2025 05:24:39.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Fir Planks'/199870, l='ServerLevel[ey]', x=-1517.50, y=67.50, z=1609.50]
+[14Aug2025 05:25:06.928] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 05:25:17.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was slain by Ezrealdelcolo
+[14Aug2025 05:25:37.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo was slain by Rajmaninov
+[14Aug2025 05:26:02.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[14Aug2025 05:26:02.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[14Aug2025 05:26:06.918] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 05:26:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zzzz
+[14Aug2025 05:26:15.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:26:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:26:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was shot by Skeleton
+[14Aug2025 05:26:22.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 05:26:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 05:26:26.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51479] logged in with entity id 201017 at (-1513.5, 63.0, 1625.5)
+[14Aug2025 05:26:26.320] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 05:26:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 05:26:28.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:58988] logged in with entity id 201066 at (-1530.0780278077095, 63.0, 1648.8511758852742)
+[14Aug2025 05:26:28.380] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:26:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:27:06.919] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 05:28:06.994] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 05:29:06.919] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 05:29:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [The Parrots and the Bats]
+[14Aug2025 05:29:42.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[14Aug2025 05:30:13.661] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 05:31:13.664] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 05:32:13.673] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 05:32:32.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:59608] logged in with entity id 203187 at (-1517.9047597169795, 68.0, 1614.2475785778504)
+[14Aug2025 05:32:32.701] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[14Aug2025 05:32:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[14Aug2025 05:33:13.733] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 05:33:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo fell from a high place
+[14Aug2025 05:33:39.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [Get a Sewing Table]
+[14Aug2025 05:34:13.691] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 05:34:49.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov moved too quickly! 1.146847298378134,-1.1241870787446828,-9.981406159675089
+[14Aug2025 05:34:49.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved too quickly! 9.691572061729403,-1.0,2.662382833919537
+[14Aug2025 05:34:49.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6913ms or 138 ticks behind
+[14Aug2025 05:34:50.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172320, l='ServerLevel[ey]', x=36.50, y=-394.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:52.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172183, l='ServerLevel[ey]', x=36.50, y=-308.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172234, l='ServerLevel[ey]', x=36.50, y=-271.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172132, l='ServerLevel[ey]', x=36.50, y=-345.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172149, l='ServerLevel[ey]', x=36.50, y=-333.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172166, l='ServerLevel[ey]', x=36.50, y=-321.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172200, l='ServerLevel[ey]', x=36.50, y=-296.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172217, l='ServerLevel[ey]', x=36.50, y=-284.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172251, l='ServerLevel[ey]', x=36.50, y=-259.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172268, l='ServerLevel[ey]', x=36.50, y=-247.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172285, l='ServerLevel[ey]', x=36.50, y=-235.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172303, l='ServerLevel[ey]', x=36.50, y=-406.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172337, l='ServerLevel[ey]', x=36.50, y=-382.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172354, l='ServerLevel[ey]', x=36.50, y=-370.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:34:53.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Proto['Nunny'/172371, l='ServerLevel[ey]', x=36.50, y=-357.00, z=-33.50] died: Nunny fell out of the world
+[14Aug2025 05:35:20.578] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 05:36:20.680] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 05:36:31.509] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-71, 72], pos: MutableBlockPos{x=-1136, y=77, z=1160}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_andesite_upper]
+[14Aug2025 05:36:31.510] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-71, 72], pos: MutableBlockPos{x=-1136, y=78, z=1160}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_andesite_upper]
+[14Aug2025 05:37:20.572] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[14Aug2025 05:37:35.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1648} BlockPos{x=-1592, y=63, z=1651}
+[14Aug2025 05:37:35.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1648} BlockPos{x=-1592, y=63, z=1651}
+[14Aug2025 05:37:35.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1648} BlockPos{x=-1592, y=63, z=1651}
+[14Aug2025 05:37:35.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1648} BlockPos{x=-1592, y=63, z=1651}
+[14Aug2025 05:37:36.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1589, y=64, z=1646} BlockPos{x=-1590, y=63, z=1647}
+[14Aug2025 05:37:37.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1646} BlockPos{x=-1591, y=63, z=1647}
+[14Aug2025 05:37:37.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=64, z=1646} BlockPos{x=-1591, y=63, z=1647}
+[14Aug2025 05:37:37.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1592, y=64, z=1647} BlockPos{x=-1592, y=63, z=1648}
+[14Aug2025 05:37:37.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1593, y=64, z=1648} BlockPos{x=-1593, y=63, z=1647}
+[14Aug2025 05:37:37.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1593, y=64, z=1648} BlockPos{x=-1593, y=63, z=1647}
+[14Aug2025 05:37:45.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 05:37:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 05:37:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zz
+[14Aug2025 05:37:55.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[14Aug2025 05:37:55.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[14Aug2025 05:37:58.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 05:37:58.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 05:38:06.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51523] logged in with entity id 207921 at (-1513.300000011921, 63.0, 1624.86850058601)
+[14Aug2025 05:38:06.009] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 05:38:06.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 05:38:14.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:59143] logged in with entity id 208014 at (-1578.112664325202, 69.0, 1564.8896723769265)
+[14Aug2025 05:38:14.718] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 05:38:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 05:38:20.631] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 05:38:42.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c825f54[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:59642) lost connection: Disconnected

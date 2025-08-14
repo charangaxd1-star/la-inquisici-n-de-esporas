@@ -2924,5 +2924,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 05:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 05:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 05:11:16 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-08-14 05:17:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
