@@ -438,3 +438,110 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 02:15:20.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Biomass Bulb'/9963, l='ServerLevel[ey]', x=76.50, y=64.50, z=-89.50]
 [14Aug2025 02:15:20.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Calcified Biomass'/9964, l='ServerLevel[ey]', x=76.50, y=64.50, z=-88.50]
 [14Aug2025 02:15:20.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Gastric Biomass'/9965, l='ServerLevel[ey]', x=76.50, y=63.50, z=-89.50]
+[14Aug2025 02:15:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos fell from a high place
+[14Aug2025 02:15:33.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium Slab'/11198, l='ServerLevel[ey]', x=-10.50, y=86.50, z=-136.50]
+[14Aug2025 02:15:41.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8916ms or 178 ticks behind
+[14Aug2025 02:15:42.416] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/11982, l='ServerLevel[ey]', x=56.50, y=69.50, z=-40.50]
+[14Aug2025 02:15:42.416] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/11983, l='ServerLevel[ey]', x=56.50, y=70.50, z=-40.50]
+[14Aug2025 02:15:42.417] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Rooted Biomass'/11984, l='ServerLevel[ey]', x=56.50, y=70.50, z=-41.50]
+[14Aug2025 02:15:42.581] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/12097, l='ServerLevel[ey]', x=17.50, y=128.50, z=-130.50]
+[14Aug2025 02:15:42.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Mycelium'/12098, l='ServerLevel[ey]', x=18.50, y=128.50, z=-130.50]
+[14Aug2025 02:15:46.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block of Calcified Biomass'/12746, l='ServerLevel[ey]', x=-20.50, y=113.50, z=51.50]
+[14Aug2025 02:15:47.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 02:15:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 02:15:59.399] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 102 mobs in level: minecraft:overworld
+[14Aug2025 02:16:00.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gg
+[14Aug2025 02:16:49.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51499] logged in with entity id 13414 at (6.909718340706235, 123.0, -41.82212857323105)
+[14Aug2025 02:16:49.208] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 02:16:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 02:16:59.444] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 36 mobs in level: minecraft:overworld
+[14Aug2025 02:16:59.445] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 21 mobs in level: minecraft:overworld
+[14Aug2025 02:16:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported xingandomodelos to Rajmaninov]
+[14Aug2025 02:18:11.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Suit Up]
+[14Aug2025 02:18:34.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Acquire Hardware]
+[14Aug2025 02:18:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Stone Age]
+[14Aug2025 02:19:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Isn't It Iron Pick]
+[14Aug2025 02:20:02.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 02:20:08.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 02:20:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> gunmetal mesh
+[14Aug2025 02:21:43.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:58896] logged in with entity id 15980 at (-713.34261200138, 142.0, 3621.300000011921)
+[14Aug2025 02:21:43.131] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[14Aug2025 02:21:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[14Aug2025 02:22:10.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Meet the Spy]
+[14Aug2025 02:22:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[14Aug2025 02:23:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[14Aug2025 02:24:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Monster Hunter]
+[14Aug2025 02:24:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo hit the ground too hard
+[14Aug2025 02:24:15.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/17391, l='ServerLevel[ey]', x=437.50, y=109.50, z=1899.50]
+[14Aug2025 02:24:15.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/17392, l='ServerLevel[ey]', x=436.50, y=108.50, z=1899.50]
+[14Aug2025 02:24:15.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Vines'/17393, l='ServerLevel[ey]', x=435.50, y=110.50, z=1900.50]
+[14Aug2025 02:24:15.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/17394, l='ServerLevel[ey]', x=434.50, y=109.50, z=1899.50]
+[14Aug2025 02:24:15.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Loam'/17395, l='ServerLevel[ey]', x=434.50, y=110.50, z=1899.50]
+[14Aug2025 02:24:15.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/17396, l='ServerLevel[ey]', x=435.50, y=110.50, z=1898.50]
+[14Aug2025 02:24:37.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni was slain by Ezrealdelcolo
+[14Aug2025 02:24:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Sweet Dreams]
+[14Aug2025 02:24:40.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 02:24:40.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 02:24:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> zz
+[14Aug2025 02:25:22.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 02:25:30.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos moved wrongly!
+[14Aug2025 02:25:49.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/17983, l='ServerLevel[ey]', x=419.50, y=111.50, z=1908.50]
+[14Aug2025 02:25:49.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/17984, l='ServerLevel[ey]', x=419.50, y=110.50, z=1908.50]
+[14Aug2025 02:25:49.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/17985, l='ServerLevel[ey]', x=417.50, y=110.50, z=1908.50]
+[14Aug2025 02:25:49.563] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/17986, l='ServerLevel[ey]', x=419.50, y=111.50, z=1907.50]
+[14Aug2025 02:25:59.294] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:26:16.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:55940] logged in with entity id 18178 at (397.41482083185474, 111.0, 1907.3685027116544)
+[14Aug2025 02:26:16.735] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 02:26:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 02:26:59.221] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[14Aug2025 02:27:05.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 02:27:18.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -7.444728384388668,-7.203553644324913,-1.5286144388433058
+[14Aug2025 02:27:24.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 02:27:59.230] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 02:28:05.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 02:28:05.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 02:28:05.584] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 02:28:10.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51737] logged in with entity id 19890 at (326.50232547583164, 84.75609588623047, 1868.385125872983)
+[14Aug2025 02:28:10.081] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 02:28:10.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 02:28:59.260] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:29:04.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dark Oak Leaves'/22693, l='ServerLevel[ey]', x=-372.50, y=76.50, z=1830.50]
+[14Aug2025 02:29:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> -372 1828
+[14Aug2025 02:29:56.478] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Oak Leaves'/26315, l='ServerLevel[ey]', x=229.50, y=72.50, z=2191.50]
+[14Aug2025 02:29:59.268] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[14Aug2025 02:30:06.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was doomed to fall
+[14Aug2025 02:30:14.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 02:30:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game
+[14Aug2025 02:30:15.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ezrealdelcolo) moved too quickly! -9.045196336126708,-0.5670788329127703,-5.482517851630291
+[14Aug2025 02:30:15.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ezrealdelcolo) moved too quickly! -9.865334531459553,-0.620280050666949,-5.978240688753431
+[14Aug2025 02:30:26.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 02:30:59.536] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 38 mobs in level: minecraft:overworld
+[14Aug2025 02:31:40.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51945] logged in with entity id 30192 at (6.086966088638272, 123.0, -27.7603914811693)
+[14Aug2025 02:31:40.498] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 02:31:40.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 02:31:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [I am not a worm !]
+[14Aug2025 02:31:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [Meet the team]
+[14Aug2025 02:31:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported xingandomodelos to Ezrealdelcolo]
+[14Aug2025 02:31:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has succumbed to the infection
+[14Aug2025 02:31:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [A broken reflection]
+[14Aug2025 02:31:54.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported xingandomodelos to Ezrealdelcolo]
+[14Aug2025 02:31:55.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported xingandomodelos to Ezrealdelcolo]
+[14Aug2025 02:31:57.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xingandomodelos'/31089, l='ServerLevel[ey]', x=-384.54, y=77.00, z=1754.21] died: xingandomodelos was slain by Ezrealdelcolo
+[14Aug2025 02:31:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Spore]
+[14Aug2025 02:32:00.127] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 25 mobs in level: minecraft:overworld
+[14Aug2025 02:32:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported xingandomodelos to Ezrealdelcolo]
+[14Aug2025 02:32:23.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14Aug2025 02:32:43.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14Aug2025 02:33:16.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[14Aug2025 02:33:19.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 02:33:33.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[14Aug2025 02:33:50.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[14Aug2025 02:34:06.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 02:35:09.994] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 02:35:12.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/36421, l='ServerLevel[ey]', x=-379.50, y=67.50, z=1872.50]
+[14Aug2025 02:35:12.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/36422, l='ServerLevel[ey]', x=-381.50, y=67.50, z=1873.50]
+[14Aug2025 02:35:12.961] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/36423, l='ServerLevel[ey]', x=-381.50, y=66.50, z=1872.50]
+[14Aug2025 02:35:12.961] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/36424, l='ServerLevel[ey]', x=-381.50, y=67.50, z=1872.50]
+[14Aug2025 02:35:12.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/36425, l='ServerLevel[ey]', x=-379.50, y=68.50, z=1871.50]
+[14Aug2025 02:35:16.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xingandomodelos lost connection: Disconnected
+[14Aug2025 02:35:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos left the game

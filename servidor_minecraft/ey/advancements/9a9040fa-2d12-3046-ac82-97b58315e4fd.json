@@ -2443,5 +2443,77 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/ghaf_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/ghaf_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/ghaf_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/ghaf_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-14 02:22:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
