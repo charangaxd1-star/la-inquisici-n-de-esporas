@@ -681,3 +681,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 02:56:03.784] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
 [14Aug2025 02:56:03.784] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
 [14Aug2025 02:56:24.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[14Aug2025 02:56:37.396] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 02:56:46.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=65, z=1563} BlockPos{x=-450, y=65, z=1562}
+[14Aug2025 02:56:46.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=65, z=1563} BlockPos{x=-450, y=65, z=1562}
+[14Aug2025 02:56:47.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7113ms or 142 ticks behind
+[14Aug2025 02:56:51.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-457, y=66, z=1579} BlockPos{x=-459, y=65, z=1579}
+[14Aug2025 02:56:58.732] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-34, 52], pos: MutableBlockPos{x=-544, y=6, z=839}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
+[14Aug2025 02:56:58.733] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-34, 52], pos: MutableBlockPos{x=-544, y=7, z=839}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
+[14Aug2025 02:57:04.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[14Aug2025 02:57:16.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grassy Permafrost'/62047, l='ServerLevel[ey]', x=-418.50, y=62.50, z=713.50]
+[14Aug2025 02:57:16.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grassy Permafrost'/62049, l='ServerLevel[ey]', x=-417.50, y=62.50, z=713.50]
+[14Aug2025 02:57:16.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/62050, l='ServerLevel[ey]', x=-417.50, y=63.50, z=711.50]
+[14Aug2025 02:57:16.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Permafrost'/62051, l='ServerLevel[ey]', x=-418.50, y=61.50, z=711.50]
+[14Aug2025 02:57:16.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grassy Permafrost'/62052, l='ServerLevel[ey]', x=-419.50, y=62.50, z=711.50]
+[14Aug2025 02:57:18.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/62108, l='ServerLevel[ey]', x=-438.50, y=65.50, z=1559.50]
+[14Aug2025 02:57:28.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/62280, l='ServerLevel[ey]', x=-466.50, y=70.50, z=1560.50]
+[14Aug2025 02:57:28.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/62281, l='ServerLevel[ey]', x=-466.50, y=71.50, z=1558.50]
+[14Aug2025 02:57:28.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/62282, l='ServerLevel[ey]', x=-466.50, y=71.50, z=1559.50]
+[14Aug2025 02:57:28.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/62283, l='ServerLevel[ey]', x=-466.50, y=69.50, z=1560.50]
+[14Aug2025 02:57:42.088] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 6 mobs in level: minecraft:overworld
+[14Aug2025 02:57:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo has made the advancement [Hot Stuff]
+[14Aug2025 02:58:22.710] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/63277, l='ServerLevel[ey]', x=-341.50, y=70.50, z=1379.50]
+[14Aug2025 02:58:22.711] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/63278, l='ServerLevel[ey]', x=-340.50, y=70.50, z=1380.50]
+[14Aug2025 02:58:22.711] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Dirt'/63279, l='ServerLevel[ey]', x=-340.50, y=69.50, z=1379.50]
+[14Aug2025 02:58:22.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/63280, l='ServerLevel[ey]', x=-338.50, y=70.50, z=1378.50]
+[14Aug2025 02:58:42.087] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 02:59:42.093] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 10 mobs in level: minecraft:overworld
+[14Aug2025 03:00:07.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo was slain by Specter
+[14Aug2025 03:00:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [Meet the Spy]
+[14Aug2025 03:00:52.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13593ms or 271 ticks behind
+[14Aug2025 03:01:17.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was shot by Skeleton
+[14Aug2025 03:01:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to -222.500000, 63.000000, 1289.500000]
+[14Aug2025 03:01:50.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xingandomodelos[/100.82.22.119:51130] logged in with entity id 68376 at (-542.984966508235, 77.0, 1888.9754475244463)
+[14Aug2025 03:01:50.619] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player xingandomodelos
+[14Aug2025 03:01:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos joined the game
+[14Aug2025 03:02:07.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Aug2025 03:02:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Ezrealdelcolo to Tont0ni]
+[14Aug2025 03:02:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> duermna
+[14Aug2025 03:02:19.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 03:02:19.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> plos
+[14Aug2025 03:02:51.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo lost connection: Disconnected
+[14Aug2025 03:02:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo left the game
+[14Aug2025 03:02:56.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
+[14Aug2025 03:02:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[14Aug2025 03:03:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> ella conmigo
+[14Aug2025 03:03:08.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:55677] logged in with entity id 70491 at (227.9746839005793, 66.0, 1893.300000011921)
+[14Aug2025 03:03:08.546] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[14Aug2025 03:03:08.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[14Aug2025 03:03:45.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezrealdelcolo[/100.127.29.127:56445] logged in with entity id 71671 at (-366.025770982674, 45.0, 1110.699999988079)
+[14Aug2025 03:03:45.616] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezrealdelcolo
+[14Aug2025 03:03:45.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezrealdelcolo joined the game
+[14Aug2025 03:04:34.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-645, y=70, z=1692} BlockPos{x=-645, y=68, z=1691}
+[14Aug2025 03:04:35.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=68, z=1691} BlockPos{x=-640, y=68, z=1693}
+[14Aug2025 03:05:57.648] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 17 mobs in level: minecraft:overworld

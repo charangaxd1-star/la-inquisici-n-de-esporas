@@ -1126,7 +1126,9 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "gardenia": "2025-08-13 02:14:07 +0000",
-      "anemone": "2025-08-14 02:37:26 +0000"
+      "anemone": "2025-08-14 02:37:26 +0000",
+      "snapdragon": "2025-08-14 02:51:47 +0000",
+      "azure_bluet": "2025-08-14 02:55:04 +0000"
     },
     "done": false
   },
@@ -1425,6 +1427,7 @@
       "minecraft:enderman": "2025-08-14 02:47:39 +0000",
       "minecraft:vex": "2025-08-14 02:35:11 +0000",
       "minecraft:zombie": "2025-08-13 02:52:42 +0000",
+      "minecraft:drowned": "2025-08-14 03:02:09 +0000",
       "minecraft:zombie_villager": "2025-08-14 02:34:37 +0000"
     },
     "done": false
@@ -2539,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
@@ -2551,15 +2560,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-08-14 02:46:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/tonic": {
+    "criteria": {
+      "has_healing_herbs": "2025-08-14 02:52:05 +0000"
     },
     "done": true
   },
@@ -2581,9 +2632,21 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/food/pumpkin_juice": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 02:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
     },
     "done": true
   },
@@ -2593,9 +2656,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-14 02:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-14 02:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-14 02:55:04 +0000"
     },
     "done": true
   },
@@ -2611,9 +2692,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
+    },
+    "done": true
+  },
   "spore:inf_player": {
     "criteria": {
       "hurt_by_infected": "2025-08-14 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-14 03:02:28 +0000"
     },
     "done": true
   },
@@ -2668,6 +2767,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-08-14 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/pink_dye_from_snapdragon": {
+    "criteria": {
+      "has_snapdragon": "2025-08-14 02:51:47 +0000"
     },
     "done": true
   },

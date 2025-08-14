@@ -13,15 +13,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-14 02:52:40 +0000",
       "natures_spirit:cypress_fields": "2025-08-11 05:49:42 +0000",
       "natures_spirit:blooming_sugi_forest": "2025-08-13 05:03:29 +0000",
+      "minecraft:dark_forest": "2025-08-14 02:54:01 +0000",
+      "minecraft:dripstone_caves": "2025-08-14 02:54:12 +0000",
       "natures_spirit:oak_savanna": "2025-08-13 04:32:19 +0000",
       "natures_spirit:tropical_shores": "2025-08-11 05:17:06 +0000",
+      "minecraft:grove": "2025-08-14 02:54:23 +0000",
       "minecraft:lush_caves": "2025-08-13 01:13:30 +0000",
       "natures_spirit:wooded_drylands": "2025-08-11 05:14:37 +0000",
       "minecraft:jungle": "2025-08-11 04:13:02 +0000",
       "minecraft:warm_ocean": "2025-08-13 04:27:36 +0000",
       "natures_spirit:xeric_plains": "2025-08-13 04:59:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-14 02:52:07 +0000",
       "minecraft:plains": "2025-08-11 04:04:23 +0000",
       "minecraft:sparse_jungle": "2025-08-11 05:28:44 +0000",
       "minecraft:river": "2025-08-11 04:12:35 +0000",
@@ -3322,6 +3327,12 @@
   "natures_spirit:recipes/misc/red_dye_from_carnation": {
     "criteria": {
       "has_carnation": "2025-08-14 02:33:04 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-14 03:00:37 +0000"
     },
     "done": true
   },
