@@ -734,3 +734,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Aug2025 03:04:34.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-645, y=70, z=1692} BlockPos{x=-645, y=68, z=1691}
 [14Aug2025 03:04:35.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=68, z=1691} BlockPos{x=-640, y=68, z=1693}
 [14Aug2025 03:05:57.648] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 17 mobs in level: minecraft:overworld
+[14Aug2025 03:06:58.699] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 03:07:00.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[14Aug2025 03:09:01.603] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 03:09:02.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[14Aug2025 03:09:05.730] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/78614, l='ServerLevel[ey]', x=-305.50, y=61.50, z=1261.50]
+[14Aug2025 03:09:19.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14Aug2025 03:09:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was blown up by Rajmaninov
+[14Aug2025 03:09:57.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to -305.500000, 63.000000, 1296.500000]
+[14Aug2025 03:10:04.194] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 03:10:04.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to -305.500000, 66.000000, 1926.500000]
+[14Aug2025 03:10:25.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to -305.500000, 63.000000, 1265.500000]
+[14Aug2025 03:11:04.277] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[14Aug2025 03:11:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov has made the advancement [And the winner of the Darwin awards is ?]
+[14Aug2025 03:12:03.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['Rajmaninov'/82216, l='ServerLevel[ey]', x=-282.75, y=62.23, z=1270.28] died: Rajmaninov was slain by Rajmaninov
+[14Aug2025 03:12:04.371] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
+[14Aug2025 03:12:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was eaten alive by Rajmaninov
+[14Aug2025 03:12:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to -305.500000, 63.000000, 1265.500000]
+[14Aug2025 03:12:38.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Rajmaninov'/82868, l='ServerLevel[ey]', x=-276.54, y=63.00, z=1270.93] died: Rajmaninov was slain by Rajmaninov
+[14Aug2025 03:13:04.131] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 8 mobs in level: minecraft:overworld
+[14Aug2025 03:14:01.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
+[14Aug2025 03:14:01.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[14Aug2025 03:14:02.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 03:14:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> zzzzzzzz
+[14Aug2025 03:14:04.124] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[14Aug2025 03:14:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> zzzzzzzzzzzz
+[14Aug2025 03:14:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xingandomodelos> zzzzzzzzzzzzz
+[14Aug2025 03:14:11.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!
+[14Aug2025 03:14:27.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:55750] logged in with entity id 85111 at (-351.8660828245584, 72.02442408821369, 1464.7100716315463)
+[14Aug2025 03:14:27.737] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[14Aug2025 03:14:27.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[14Aug2025 03:16:04.224] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
+[14Aug2025 03:16:23.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 03:16:44.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezrealdelcolo moved wrongly!
+[14Aug2025 03:17:04.522] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[14Aug2025 03:17:05.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.5343612509883542,-1.3467912609741148,9.887285562683473
+[14Aug2025 03:17:05.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 9.96889821037712,-0.44090225874806777,-4.614382110616589
+[14Aug2025 03:17:05.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.7259465917911712,-1.3437468312666994,10.649800494313467
+[14Aug2025 03:17:05.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 10.877481108960637,-0.4401443447960247,-5.035029442658924
+[14Aug2025 03:17:05.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 11.782337612035008,-0.43245877888645623,-5.460751134311522
+[14Aug2025 03:17:05.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -1.9889633765945973,-1.3323206440542066,11.377821550910085
+[14Aug2025 03:17:05.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 12.68151338750522,-0.4183832769621887,-5.894506005986159
+[14Aug2025 03:17:05.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -2.3108420136542236,-1.3077799824598486,12.073469836603863
+[14Aug2025 03:17:05.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 13.57286650008723,-0.3984796557217152,-6.339331381732109
+[14Aug2025 03:17:05.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -2.6810515799879795,-1.2671327552808265,12.738963799811927
+[14Aug2025 03:17:05.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 14.454097180700614,-0.3733126406454943,-6.798186180127686
+[14Aug2025 03:17:05.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -3.0907133742265387,-1.2094443954918432,13.376485337133317
+[14Aug2025 03:17:05.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 15.322772093923277,-0.34343420347654785,-7.273832873238462
+[14Aug2025 03:17:05.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -3.5324105837072466,-1.1345070550928398,13.988199254795973
+[14Aug2025 03:17:05.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 16.17634791604337,-0.30937222367954575,-7.768751180981326
+[14Aug2025 03:17:05.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -3.9999538618559427,-1.04264690367674,14.576208439305901
+[14Aug2025 03:17:05.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -4.488186913753793,-0.9345715692277707,15.142525919521404
+[14Aug2025 03:17:05.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 17.012185568260747,-0.27140033594345425,-8.2850687968496
+[14Aug2025 03:17:05.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 17.827728291939934,-0.2286534329865617,-8.824283239035594
+[14Aug2025 03:17:05.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -4.992822981089375,-0.8112501776445669,15.689057248471272
+[14Aug2025 03:17:05.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! -5.510307826732628,-0.6738192144975983,16.21759110107064
+[14Aug2025 03:17:05.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 18.621288939941564,-0.1794905987627402,-9.386441930400906
+[14Aug2025 03:17:05.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 10.33356100509127,0.3124716397005898,-5.774421708365935
+[14Aug2025 03:17:05.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 11.08070891386069,0.38115434134498116,-6.378770440973085
+[14Aug2025 03:17:05.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of xingandomodelos) moved too quickly! 11.804372251186123,0.4631134038168909,-7.001160456015896
+[14Aug2025 03:17:05.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Tont0ni) moved too quickly! 5.683575824677064,-1.1579237868114944,-8.6226955173845
+[14Aug2025 03:17:05.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved wrongly!

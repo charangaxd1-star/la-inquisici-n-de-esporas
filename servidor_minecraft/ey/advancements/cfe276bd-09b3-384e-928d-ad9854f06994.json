@@ -28,6 +28,7 @@
       "natures_spirit:xeric_plains": "2025-08-13 04:59:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-14 02:52:07 +0000",
       "minecraft:plains": "2025-08-11 04:04:23 +0000",
+      "minecraft:birch_forest": "2025-08-14 03:15:39 +0000",
       "minecraft:sparse_jungle": "2025-08-11 05:28:44 +0000",
       "minecraft:river": "2025-08-11 04:12:35 +0000",
       "minecraft:lukewarm_ocean": "2025-08-13 04:28:45 +0000",
@@ -605,6 +606,7 @@
     "criteria": {
       "bread": "2025-08-11 05:15:38 +0000",
       "rotten_flesh": "2025-08-11 04:48:39 +0000",
+      "salmon": "2025-08-14 03:07:53 +0000",
       "melon_slice": "2025-08-11 04:34:21 +0000",
       "cooked_chicken": "2025-08-13 05:26:01 +0000",
       "cooked_salmon": "2025-08-11 04:15:28 +0000"
@@ -3306,12 +3308,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-14 02:48:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 02:25:38 +0000"
@@ -3330,9 +3326,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-14 02:48:53 +0000"
+    },
+    "done": true
+  },
   "spore:specter": {
     "criteria": {
       "hurt_by_infected": "2025-08-14 03:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 03:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 03:07:35 +0000"
+    },
+    "done": true
+  },
+  "spore:scamper": {
+    "criteria": {
+      "hurt_infected": "2025-08-14 03:11:57 +0000"
     },
     "done": true
   },
