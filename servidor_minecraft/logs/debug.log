@@ -7099,3 +7099,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Aug2025 01:50:04.369] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
 [15Aug2025 01:51:04.357] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 3 mobs in level: minecraft:overworld
 [15Aug2025 01:52:04.357] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 12 mobs in level: minecraft:overworld
+[15Aug2025 01:53:04.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[15Aug2025 01:53:04.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[15Aug2025 01:53:04.561] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 11 mobs in level: minecraft:overworld
+[15Aug2025 01:54:45.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> GG
+[15Aug2025 01:54:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> no team
+[15Aug2025 01:55:04.353] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 7 mobs in level: minecraft:overworld
+[15Aug2025 01:56:04.357] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[15Aug2025 01:57:04.355] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[15Aug2025 01:58:04.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[15Aug2025 01:58:04.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[15Aug2025 01:58:04.429] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[15Aug2025 01:59:04.360] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 2 mobs in level: minecraft:overworld
+[15Aug2025 02:00:04.356] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 9 mobs in level: minecraft:overworld
+[15Aug2025 02:01:04.363] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[15Aug2025 02:03:04.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ey
+[15Aug2025 02:03:04.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ey
+[15Aug2025 02:03:04.442] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 1 mobs in level: minecraft:overworld
