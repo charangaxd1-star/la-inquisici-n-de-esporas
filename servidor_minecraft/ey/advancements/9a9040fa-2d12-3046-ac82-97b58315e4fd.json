@@ -2964,5 +2964,53 @@
     },
     "done": true
   },
+  "weather2:recipes/misc/wind_vane": {
+    "criteria": {
+      "has_weather_item": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
+    "criteria": {
+      "has_coat": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/anemometer": {
+    "criteria": {
+      "has_weather_item": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_deflector": {
+    "criteria": {
+      "has_weather_item": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_forecast": {
+    "criteria": {
+      "has_weather_item": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-14 05:53:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

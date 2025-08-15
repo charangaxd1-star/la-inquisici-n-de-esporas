@@ -614,6 +614,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-08-14 05:54:48 +0000",
       "bread": "2025-08-11 05:15:38 +0000",
       "rotten_flesh": "2025-08-11 04:48:39 +0000",
       "salmon": "2025-08-14 03:07:53 +0000",
@@ -3384,9 +3385,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_lilac": "2025-08-14 05:17:12 +0000"
+      "has_coal_block": "2025-08-14 04:22:21 +0000"
     },
     "done": true
   },
@@ -3396,33 +3397,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/white_dye_from_gardenia": {
+    "criteria": {
+      "has_gardenia": "2025-08-14 04:51:14 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/chert_tiles_from_chert_stonecutting": {
     "criteria": {
       "has_chert": "2025-08-14 04:53:46 +0000"
     },
     "done": true
   },
-  "natures_spirit:recipes/misc/purple_dye_from_purple_heather": {
-    "criteria": {
-      "has_purple_heather": "2025-08-14 05:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-14 05:37:14 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/building_blocks/polished_chert_from_chert_stonecutting": {
     "criteria": {
       "has_chert": "2025-08-14 04:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-08-14 04:22:21 +0000"
     },
     "done": true
   },
@@ -3435,24 +3436,6 @@
   "natures_spirit:recipes/building_blocks/chert_bricks_from_chert_stonecutting": {
     "criteria": {
       "has_chert": "2025-08-14 04:53:46 +0000"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/misc/white_dye_from_white_heather": {
-    "criteria": {
-      "has_white_heather": "2025-08-14 05:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-08-14 05:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-08-14 04:43:47 +0000"
     },
     "done": true
   },
@@ -3480,18 +3463,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-14 05:05:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-08-14 05:17:12 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/building_blocks/chert_tile_slab_from_chert_stonecutting": {
     "criteria": {
       "has_chert": "2025-08-14 04:53:46 +0000"
@@ -3516,18 +3487,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2025-08-14 05:29:43 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:main/get_a_sewing_table": {
-    "criteria": {
-      "inventory_changed": "2025-08-14 05:33:39 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/decorations/polished_chert_wall_from_chert_stonecutting": {
     "criteria": {
       "has_chert": "2025-08-14 04:53:46 +0000"
@@ -3546,9 +3505,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "natures_spirit:recipes/building_blocks/chert_stairs": {
     "criteria": {
-      "has_gray_wool": "2025-08-14 04:43:47 +0000"
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_brick_stairs_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chert_slab_from_chert_stonecutting": {
+    "criteria": {
+      "has_chert": "2025-08-14 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-14 05:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-14 05:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-14 05:17:12 +0000"
     },
     "done": true
   },
@@ -3558,21 +3553,21 @@
     },
     "done": true
   },
-  "natures_spirit:recipes/building_blocks/chert_stairs": {
+  "natures_spirit:recipes/misc/white_dye_from_white_heather": {
     "criteria": {
-      "has_chert": "2025-08-14 04:53:46 +0000"
+      "has_white_heather": "2025-08-14 05:21:59 +0000"
     },
     "done": true
   },
-  "natures_spirit:recipes/misc/white_dye_from_gardenia": {
+  "natures_spirit:recipes/misc/purple_dye_from_purple_heather": {
     "criteria": {
-      "has_gardenia": "2025-08-14 04:51:14 +0000"
+      "has_purple_heather": "2025-08-14 05:22:09 +0000"
     },
     "done": true
   },
-  "natures_spirit:recipes/building_blocks/chert_brick_stairs_from_chert_stonecutting": {
+  "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
-      "has_chert": "2025-08-14 04:53:46 +0000"
+      "has_pink_wool": "2025-08-14 05:29:43 +0000"
     },
     "done": true
   },
@@ -3588,15 +3583,39 @@
     },
     "done": true
   },
-  "natures_spirit:recipes/building_blocks/chert_slab_from_chert_stonecutting": {
+  "legendarysurvivaloverhaul:main/get_a_sewing_table": {
     "criteria": {
-      "has_chert": "2025-08-14 04:53:46 +0000"
+      "inventory_changed": "2025-08-14 05:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-14 05:37:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-14 05:37:14 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/cold_string_from_sewing_string_ice_fern_leaf": {
+    "criteria": {
+      "has_sewing_table": "2025-08-14 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-15 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-15 01:36:07 +0000"
     },
     "done": true
   },
