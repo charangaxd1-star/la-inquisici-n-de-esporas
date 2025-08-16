@@ -65,7 +65,7 @@
 	# The sea level can be defined via datapack under the dimension's temperature.
 	# As an example, a value of -6 will reduce the player's temperature by 6 for each 64 blocks (the calculus is done linearly).
 	#Range: -1000.0 ~ 1000.0
-	"Altitude Modifier" = -6.0
+	"Altitude Modifier" = -0.0
 
 	[temperature.temperature-immunity]
 		# If enabled, players will be immune to temperature effects after death.

@@ -3092,5 +3092,71 @@
     },
     "done": true
   },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 02:54:54 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-08-15 02:54:58 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 03:14:46 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 03:15:37 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/decorations/heater": {
+    "criteria": {
+      "has_campfire": "2025-08-15 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-15 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-15 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-16 05:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-16 05:06:45 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-16 05:19:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -22,6 +22,7 @@
       "natures_spirit:tropical_shores": "2025-08-11 05:17:06 +0000",
       "minecraft:grove": "2025-08-14 02:54:23 +0000",
       "minecraft:lush_caves": "2025-08-13 01:13:30 +0000",
+      "natures_spirit:fir_forest": "2025-08-16 05:08:09 +0000",
       "natures_spirit:wooded_drylands": "2025-08-11 05:14:37 +0000",
       "minecraft:jungle": "2025-08-11 04:13:02 +0000",
       "minecraft:warm_ocean": "2025-08-13 04:27:36 +0000",
@@ -614,6 +615,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-15 02:31:54 +0000",
+      "chicken": "2025-08-15 04:26:47 +0000",
       "porkchop": "2025-08-14 05:54:48 +0000",
       "bread": "2025-08-11 05:15:38 +0000",
       "rotten_flesh": "2025-08-11 04:48:39 +0000",
@@ -3609,6 +3612,36 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-15 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-15 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-08-15 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-08-15 02:05:16 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-08-15 02:05:16 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/decorations/sugi_fence": {
     "criteria": {
       "has_planks": "2025-08-15 02:05:52 +0000"
@@ -3618,12 +3651,6 @@
   "natures_spirit:recipes/redstone/sugi_button": {
     "criteria": {
       "has_planks": "2025-08-15 02:05:52 +0000"
-    },
-    "done": true
-  },
-  "natures_spirit:recipes/building_blocks/sugi_wood": {
-    "criteria": {
-      "has_log": "2025-08-15 02:05:16 +0000"
     },
     "done": true
   },
@@ -3651,18 +3678,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-15 01:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-15 02:12:44 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/redstone/sugi_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-15 02:05:52 +0000"
@@ -3681,9 +3696,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_obsidian": "2025-08-15 01:36:07 +0000"
+      "has_iron_block": "2025-08-15 02:12:44 +0000"
     },
     "done": true
   },
@@ -3693,15 +3708,129 @@
     },
     "done": true
   },
-  "natures_spirit:recipes/building_blocks/sugi_planks": {
+  "spore:busser": {
     "criteria": {
-      "has_logs": "2025-08-15 02:05:16 +0000"
+      "hurt_by_infected": "2025-08-15 02:28:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "spore:stalker": {
     "criteria": {
-      "has_raw_copper_block": "2025-08-15 01:58:01 +0000"
+      "hurt_infected": "2025-08-15 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-15 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-15 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-15 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/decorations/heater": {
+    "criteria": {
+      "has_campfire": "2025-08-15 04:08:52 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/sew_a_coat": {
+    "criteria": {
+      "recipe_crafted": "2025-08-15 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_coat_3": {
+    "criteria": {
+      "has_heating_coat_3": "2025-08-15 04:42:13 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_coat_2": {
+    "criteria": {
+      "has_heating_coat_2": "2025-08-15 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_vindicator": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 05:27:02 +0000"
+    },
+    "done": true
+  },
+  "spore:scavenger": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-15 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-15 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-15 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:36:05 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:36:11 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:36:26 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_infected": "2025-08-15 05:36:51 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_by_infected": "2025-08-15 05:38:33 +0000"
     },
     "done": true
   },
