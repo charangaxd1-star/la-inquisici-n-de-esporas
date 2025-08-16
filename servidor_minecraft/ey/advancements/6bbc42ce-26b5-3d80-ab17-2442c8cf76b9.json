@@ -2869,5 +2869,11 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-08-16 05:26:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

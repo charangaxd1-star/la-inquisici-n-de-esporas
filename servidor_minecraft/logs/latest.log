@@ -511,3 +511,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Aug2025 05:23:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set own game mode to Survival Mode]
 [16Aug2025 05:23:53.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rajmaninov lost connection: Disconnected
 [16Aug2025 05:23:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov left the game
+[16Aug2025 05:24:25.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[16Aug2025 05:24:25.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[16Aug2025 05:24:32.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rajmaninov[/100.100.191.59:64234] logged in with entity id 18771 at (-1204.3847754510161, 135.0, 1254.3575304254261)
+[16Aug2025 05:24:32.132] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Rajmaninov
+[16Aug2025 05:24:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov joined the game
+[16Aug2025 05:24:50.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> CDU
+[16Aug2025 05:25:15.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b25a67[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:53598) lost connection: Disconnected
+[16Aug2025 05:25:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> ice canister
+[16Aug2025 05:25:21.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:53602] logged in with entity id 19659 at (-1559.425000011921, 62.125, 1623.3076265039165)
+[16Aug2025 05:25:21.142] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[16Aug2025 05:25:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[16Aug2025 05:25:48.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[16Aug2025 05:25:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Set Tont0ni's game mode to Survival Mode]
+[16Aug2025 05:26:07.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Aug2025 05:26:24.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[16Aug2025 05:26:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Rajmaninov to xingandomodelos]
+[16Aug2025 05:26:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[16Aug2025 05:26:45.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni moved too quickly! 0.04083168182978625,-13.47520526243315,-0.0283849895217827
+[16Aug2025 05:26:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
+[16Aug2025 05:26:46.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni was doomed to fall by xingandomodelos
+[16Aug2025 05:26:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos has made the advancement [A broken reflection]
+[16Aug2025 05:26:55.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tont0ni'/21499, l='ServerLevel[ey]', x=-1560.17, y=305.00, z=1617.17] died: Tont0ni was slain by Rajmaninov
+[16Aug2025 05:27:05.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Killed Rajmaninov]
+[16Aug2025 05:27:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rajmaninov was killed
+[16Aug2025 05:27:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Killed Rajmaninov]
+[16Aug2025 05:27:11.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[16Aug2025 05:27:36.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Rajmaninov'/22105, l='ServerLevel[ey]', x=-1563.51, y=64.00, z=1627.32] died: Rajmaninov was doomed to fall by xingandomodelos
+[16Aug2025 05:27:47.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was slain by Rajmaninov
+[16Aug2025 05:27:49.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xingandomodelos'/23569, l='ServerLevel[ey]', x=-1558.36, y=305.00, z=1612.39] died: xingandomodelos was slain by Rajmaninov
+[16Aug2025 05:29:36.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xingandomodelos was slain by Tont0ni
+[16Aug2025 05:29:55.311] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 38 mobs in level: minecraft:overworld
+[16Aug2025 05:29:57.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[16Aug2025 05:30:15.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rajmaninov> kick
+[16Aug2025 05:31:17.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[16Aug2025 05:31:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[16Aug2025 05:31:49.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@321aee54[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:53634) lost connection: Disconnected
+[16Aug2025 05:31:57.215] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 4 mobs in level: minecraft:overworld
+[16Aug2025 05:32:22.019] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a6a47ff[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:53640) lost connection: Disconnected
+[16Aug2025 05:32:42.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16Aug2025 05:32:54.337] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4faae969[id=<null>,name=Tont0ni,properties={},legacy=false] (/100.78.181.8:53641) lost connection: Disconnected
+[16Aug2025 05:32:59.148] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 5 mobs in level: minecraft:overworld
+[16Aug2025 05:33:01.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:53642] logged in with entity id 28721 at (-1540.4589393142542, 309.0, 1619.995618706502)
+[16Aug2025 05:33:01.582] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[16Aug2025 05:33:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[16Aug2025 05:33:11.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16Aug2025 05:33:29.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[16Aug2025 05:33:46.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[16Aug2025 05:34:06.261] [Server thread/INFO] [STDOUT/]: [com.Harbinger.Spore.sEvents.HandlerEvents:despawnExcess:143]: Despawned 11 mobs in level: minecraft:overworld
+[16Aug2025 05:34:23.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tont0ni lost connection: Disconnected
+[16Aug2025 05:34:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni left the game
+[16Aug2025 05:34:31.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tont0ni[/100.78.181.8:53651] logged in with entity id 29635 at (-1572.3684874950093, 197.32706809385164, 1616.5987956619156)
+[16Aug2025 05:34:31.577] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tont0ni
+[16Aug2025 05:34:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tont0ni joined the game
+[16Aug2025 05:34:38.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16Aug2025 05:34:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rajmaninov: Teleported Tont0ni to Rajmaninov]
